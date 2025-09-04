@@ -1,0 +1,3539 @@
+{
+  "Currencies": {
+    "ad_bonus": {
+      "_Name": "Ad Bonus",
+      "Name": "广告奖励",
+      "_Plural Name": "Ad Bonuses",
+      "Plural Name": "广告奖励",
+      "_Currency Window Folder": "Cash Shop",
+      "Currency Window Folder": "现金商店"
+    },
+    "cell": {
+      "_Name": "Cell",
+      "Name": "细胞",
+      "_Plural Name": "Cells",
+      "Plural Name": "细胞",
+      "_Currency Window Folder": "Top",
+      "Currency Window Folder": "顶部"
+    },
+    "coal": {
+      "_Name": "Coal",
+      "Name": "煤炭",
+      "_Plural Name": "Coal",
+      "Plural Name": "煤炭",
+      "_Currency Window Folder": "Common Fuel",
+      "Currency Window Folder": "常见燃料"
+    },
+    "concrete": {
+      "_Name": "Concrete",
+      "Name": "混凝土",
+      "_Plural Name": "Concrete",
+      "Plural Name": "混凝土"
+    },
+    "copper": {
+      "_Name": "Copper",
+      "Name": "铜",
+      "_Plural Name": "Copper",
+      "Plural Name": "铜"
+    },
+    "copper_ore": {
+      "_Name": "Raw Copper",
+      "Name": "粗铜",
+      "_Plural Name": "Raw Copper",
+      "Plural Name": "粗铜",
+      "_Description": "Cook it well to produce {name currency copper}.",
+      "Description": "好好烹饪以产生{name currency copper}。"
+    },
+    "deluxe_edition": {
+      "_Name": "Deluxe Edition",
+      "Name": "豪华版",
+      "_Plural Name": "Deluxe Editions",
+      "Plural Name": "豪华版",
+      "_Currency Window Folder": "Cash Shop",
+      "Currency Window Folder": "现金商店"
+    },
+    "dollar": {
+      "_Name": "Dollar",
+      "Name": "美刀",
+      "_Plural Name": "Dollars",
+      "Plural Name": "美刀",
+      "_Currency Window Folder": "Cash Shop",
+      "Currency Window Folder": "现金商店"
+    },
+    "gem": {
+      "_Name": "Gem",
+      "Name": "宝石",
+      "_Plural Name": "Gems",
+      "Plural Name": "宝石",
+      "_Currency Window Folder": "Cash Shop",
+      "Currency Window Folder": "现金商店"
+    },
+    "growth": {
+      "_Name": "Growth",
+      "Name": "生长",
+      "_Plural Name": "Growth",
+      "Plural Name": "生长"
+    },
+    "iron": {
+      "_Name": "Iron",
+      "Name": "铁",
+      "_Plural Name": "Iron",
+      "Plural Name": "铁"
+    },
+    "iron_ore": {
+      "_Name": "Raw Iron",
+      "Name": "粗铁",
+      "_Plural Name": "Raw Iron",
+      "Plural Name": "粗铁",
+      "_Description": "Toast it to produce {name currency iron}.",
+      "Description": "烘烤以产生{name currency iron}。"
+    },
+    "joule": {
+      "_Name": "Joule",
+      "Name": "焦耳",
+      "_Plural Name": "Joules",
+      "Plural Name": "焦耳",
+      "_Currency Window Folder": "Common Fuel",
+      "Currency Window Folder": "常见燃料"
+    },
+    "juice": {
+      "_Name": "Juice",
+      "Name": "果汁",
+      "_Plural Name": "Juice",
+      "Plural Name": "果汁",
+      "_Currency Window Folder": "Juice",
+      "Currency Window Folder": "果汁"
+    },
+    "malignancy": {
+      "_Name": "Malignancy",
+      "Name": "恶性肿瘤",
+      "_Plural Name": "Malignancy",
+      "Plural Name": "恶性肿瘤",
+      "_Currency Window Folder": "Top",
+      "Currency Window Folder": "顶部"
+    },
+    "oil": {
+      "_Name": "Oil",
+      "Name": "油",
+      "_Plural Name": "Oil",
+      "Plural Name": "油"
+    },
+    "rage_juice": {
+      "_Name": "Rage Juice",
+      "Name": "狂怒果汁",
+      "_Plural Name": "Rage Juice",
+      "Plural Name": "狂怒果汁",
+      "_Currency Window Folder": "Juice",
+      "Currency Window Folder": "果汁"
+    },
+    "stone": {
+      "_Name": "Stone",
+      "Name": "石头",
+      "_Plural Name": "Stone",
+      "Plural Name": "石头",
+      "_Description": "Favored by artists for their crunchy possibilities.",
+      "Description": "因其酥脆的可能性而受到艺术家青睐。"
+    },
+    "subscription": {
+      "_Name": "Subscription",
+      "Name": "订阅",
+      "_Plural Name": "Subscriptions",
+      "Plural Name": "订阅",
+      "_Currency Window Folder": "Cash Shop",
+      "Currency Window Folder": "现金商店"
+    },
+    "tarball": {
+      "_Name": "Tarball",
+      "Name": "肉团",
+      "_Plural Name": "Tarballs",
+      "Plural Name": "肉团"
+    },
+    "tax_writeoff": {
+      "_Name": "Tax Writeoff",
+      "Name": "减税",
+      "_Plural Name": "Tax Writeoffs",
+      "Plural Name": "减税",
+      "_Currency Window Folder": "Cash Shop",
+      "Currency Window Folder": "现金商店"
+    },
+    "advantage": {
+      "_Name": "Advantage",
+      "Name": "优势",
+      "_Plural Name": "Advantages",
+      "Plural Name": "优势",
+      "_Currency Window Folder": "Fate",
+      "Currency Window Folder": "命运"
+    },
+    "axe": {
+      "_Name": "Axe",
+      "Name": "斧头",
+      "_Plural Name": "Axes",
+      "Plural Name": "斧头"
+    },
+    "carcinogen": {
+      "_Name": "Carcinogen",
+      "Name": "致癌物",
+      "_Plural Name": "Carcinogens",
+      "Plural Name": "致癌物"
+    },
+    "chip": {
+      "_Name": "Chip",
+      "Name": "筹码",
+      "_Plural Name": "Chips",
+      "Plural Name": "筹码",
+      "_Currency Window Folder": "Fate",
+      "Currency Window Folder": "命运"
+    },
+    "cigarette": {
+      "_Name": "Cigarette",
+      "Name": "香烟",
+      "_Plural Name": "Cigarettes",
+      "Plural Name": "香烟"
+    },
+    "coin": {
+      "_Name": "Coin",
+      "Name": "硬币",
+      "_Plural Name": "Coins",
+      "Plural Name": "硬币",
+      "_Currency Window Folder": "Fate",
+      "Currency Window Folder": "命运"
+    },
+    "draw_plate": {
+      "_Name": "Draw Plate",
+      "Name": "拉制板",
+      "_Plural Name": "Draw Plate",
+      "Plural Name": "拉制板"
+    },
+    "galena": {
+      "_Name": "Galena",
+      "Name": "方铅矿",
+      "_Plural Name": "Galena",
+      "Plural Name": "方铅矿"
+    },
+    "glass": {
+      "_Name": "Glass",
+      "Name": "玻璃",
+      "_Plural Name": "Glass",
+      "Plural Name": "玻璃"
+    },
+    "hardwood": {
+      "_Name": "Hardwood",
+      "Name": "硬木",
+      "_Plural Name": "Hardwood",
+      "Plural Name": "硬木",
+      "_Description": "͡⚆ ͜ʖ ͡⚆",
+      "Description": "͡⚆ ͜ʖ ͡⚆"
+    },
+    "humus": {
+      "_Name": "Humus",
+      "Name": "腐殖质",
+      "_Plural Name": "Humus",
+      "Plural Name": "腐殖质",
+      "_Description": "This resource is the shit!",
+      "Description": "这个资源就是屎！"
+    },
+    "jackpot": {
+      "_Name": "Jackpot",
+      "Name": "大奖",
+      "_Plural Name": "Jackpot",
+      "Plural Name": "大奖",
+      "_Currency Window Folder": "Fate",
+      "Currency Window Folder": "命运"
+    },
+    "lead": {
+      "_Name": "Lead",
+      "Name": "铅",
+      "_Plural Name": "Lead",
+      "Plural Name": "铅"
+    },
+    "liquid_iron": {
+      "_Name": "Liquid Iron",
+      "Name": "铁水",
+      "_Plural Name": "Liquid Iron",
+      "Plural Name": "铁水"
+    },
+    "organ": {
+      "_Name": "Organ",
+      "Name": "器官",
+      "_Plural Name": "Organs",
+      "Plural Name": "器官",
+      "_Currency Window Folder": "Top",
+      "Currency Window Folder": "顶部"
+    },
+    "paper": {
+      "_Name": "Paper",
+      "Name": "纸张",
+      "_Plural Name": "Paper",
+      "Plural Name": "纸张"
+    },
+    "petroleum": {
+      "_Name": "Petroleum",
+      "Name": "石油",
+      "_Plural Name": "Petroleum",
+      "Plural Name": "石油"
+    },
+    "plastic": {
+      "_Name": "Plastic",
+      "Name": "塑料",
+      "_Plural Name": "Plastic",
+      "Plural Name": "塑料"
+    },
+    "sand": {
+      "_Name": "Sand",
+      "Name": "沙子",
+      "_Plural Name": "Sand",
+      "Plural Name": "沙子",
+      "_Description": "It's roarse, and cough, and it gets eherweyeve!",
+      "Description": "粗糙，令人咳嗽，到处都是！"
+    },
+    "seed": {
+      "_Name": "Seed",
+      "Name": "种子",
+      "_Plural Name": "Seed",
+      "Plural Name": "种子"
+    },
+    "soil": {
+      "_Name": "Soil",
+      "Name": "土壤",
+      "_Plural Name": "Soil",
+      "Plural Name": "土壤"
+    },
+    "steel": {
+      "_Name": "Steel",
+      "Name": "钢铁",
+      "_Plural Name": "Steel",
+      "Plural Name": "钢铁"
+    },
+    "tobacco": {
+      "_Name": "Tobacco",
+      "Name": "烟草",
+      "_Plural Name": "Tobacco",
+      "Plural Name": "烟草"
+    },
+    "topaz": {
+      "_Name": "Topaz",
+      "Name": "黄玉",
+      "_Plural Name": "Topaz",
+      "Plural Name": "黄玉",
+      "_Currency Window Folder": "Thingy Garden",
+      "Currency Window Folder": "那些玩意儿"
+    },
+    "tree": {
+      "_Name": "Tree",
+      "Name": "树",
+      "_Plural Name": "Tree",
+      "Plural Name": "树"
+    },
+    "tumor": {
+      "_Name": "Tumor",
+      "Name": "肿瘤",
+      "_Plural Name": "Tumors",
+      "Plural Name": "肿瘤"
+    },
+    "water": {
+      "_Name": "Water",
+      "Name": "水",
+      "_Plural Name": "Water",
+      "Plural Name": "水",
+      "_Description": "The 4x2 Lego brick of life.",
+      "Description": "生命的4x2乐高积木。"
+    },
+    "will": {
+      "_Name": "Will",
+      "Name": "意志",
+      "_Plural Name": "Will",
+      "Plural Name": "意志",
+      "_Currency Window Folder": "Thingy Garden",
+      "Currency Window Folder": "那些玩意儿"
+    },
+    "wire": {
+      "_Name": "Wire",
+      "Name": "电线",
+      "_Plural Name": "Wire",
+      "Plural Name": "电线"
+    },
+    "wood": {
+      "_Name": "Wood",
+      "Name": "木头",
+      "_Plural Name": "Wood",
+      "Plural Name": "木头"
+    },
+    "wood_pulp": {
+      "_Name": "Wood Pulp",
+      "Name": "木浆",
+      "_Plural Name": "Wood Pulp",
+      "Plural Name": "木浆"
+    },
+    "tea": {
+      "_Name": "Tea",
+      "Name": "茶",
+      "_Plural Name": "Tea",
+      "Plural Name": "茶",
+      "_Currency Window Folder": "Common Fuel",
+      "Currency Window Folder": "常见燃料"
+    },
+    "coffee": {
+      "_Name": "Coffee",
+      "Name": "咖啡",
+      "_Plural Name": "Coffee",
+      "Plural Name": "咖啡",
+      "_Currency Window Folder": "Common Fuel",
+      "Currency Window Folder": "常见燃料"
+    },
+    "steak": {
+      "_Name": "Steak",
+      "Name": "牛排",
+      "_Plural Name": "Steak",
+      "Plural Name": "牛排"
+    },
+    "resolve": {
+      "_Name": "Resolve",
+      "Name": "决心",
+      "_Plural Name": "Resolve",
+      "Plural Name": "决心"
+    },
+    "grit": {
+      "_Name": "Grit",
+      "Name": "毅力",
+      "_Plural Name": "Grit",
+      "Plural Name": "毅力"
+    },
+    "foundation": {
+      "_Name": "Foundation",
+      "Name": "基础",
+      "_Plural Name": "Foundation",
+      "Plural Name": "基础"
+    },
+    "crystal": {
+      "_Name": "Crystal",
+      "Name": "水晶",
+      "_Plural Name": "Crystals",
+      "Plural Name": "水晶"
+    },
+    "tome": {
+      "_Name": "Tome",
+      "Name": "典籍",
+      "_Plural Name": "Tomes",
+      "Plural Name": "典籍"
+    },
+    "mana": {
+      "_Name": "Mana",
+      "Name": "魔力",
+      "_Plural Name": "Mana",
+      "Plural Name": "魔力"
+    },
+    "mana_crystal": {
+      "_Name": "Mana Crystal",
+      "Name": "魔力水晶",
+      "_Plural Name": "Mana Crystals",
+      "Plural Name": "魔力水晶"
+    },
+    "favor": {
+      "_Name": "Favor",
+      "Name": "恩惠",
+      "_Plural Name": "Favor",
+      "Plural Name": "恩惠"
+    },
+    "blood": {
+      "_Name": "Blood",
+      "Name": "血",
+      "_Plural Name": "Blood",
+      "Plural Name": "血"
+    },
+    "raw_titanium": {
+      "_Name": "Raw Titanium",
+      "Name": "粗钛",
+      "_Plural Name": "Raw Titanium",
+      "Plural Name": "粗钛"
+    },
+    "coke": {
+      "_Name": "Coke",
+      "Name": "焦炭",
+      "_Plural Name": "Coke",
+      "Plural Name": "焦炭"
+    },
+    "magnesium": {
+      "_Name": "Magnesium",
+      "Name": "镁",
+      "_Plural Name": "Magnesium",
+      "Plural Name": "镁"
+    },
+    "chlorine": {
+      "_Name": "Chlorine",
+      "Name": "氯气",
+      "_Plural Name": "Chlorine",
+      "Plural Name": "氯气"
+    },
+    "titanium_tetrachloride": {
+      "_Name": "Titanium Tetrachloride",
+      "Name": "四氯化钛",
+      "_Plural Name": "Titanium Tetrachloride",
+      "Plural Name": "四氯化钛"
+    },
+    "titanium_sponge": {
+      "_Name": "Titanium Sponge",
+      "Name": "海绵钛",
+      "_Plural Name": "Titanium Sponges",
+      "Plural Name": "海绵钛"
+    },
+    "magnesium_chloride": {
+      "_Name": "Magnesium Chloride",
+      "Name": "氯化镁",
+      "_Plural Name": "Magnesium Chloride",
+      "Plural Name": "氯化镁"
+    },
+    "titanium_alloy": {
+      "_Name": "Titanium Alloy",
+      "Name": "钛合金",
+      "_Plural Name": "Titanium Alloy",
+      "Plural Name": "钛合金"
+    },
+    "titanium": {
+      "_Name": "Titanium",
+      "Name": "钛",
+      "_Plural Name": "Titanium",
+      "Plural Name": "钛"
+    },
+    "lubricant": {
+      "_Name": "Lubricant",
+      "Name": "润滑剂",
+      "_Plural Name": "Lubricant",
+      "Plural Name": "润滑剂"
+    },
+    "drill": {
+      "_Name": "Drill",
+      "Name": "钻头",
+      "_Plural Name": "Drills",
+      "Plural Name": "钻头"
+    },
+    "raw_uranium_235": {
+      "_Name": "Raw U-235",
+      "Name": "粗铀-235",
+      "_Plural Name": "Raw U-235",
+      "Plural Name": "粗铀-235"
+    },
+    "raw_uranium_238": {
+      "_Name": "Raw U-238",
+      "Name": "粗铀-238",
+      "_Plural Name": "Raw U-238",
+      "Plural Name": "粗铀-238"
+    },
+    "uranium": {
+      "_Name": "Uranium",
+      "Name": "铀",
+      "_Plural Name": "Uranium",
+      "Plural Name": "铀"
+    },
+    "bone": {
+      "_Name": "Bone",
+      "Name": "骨头",
+      "_Plural Name": "Bones",
+      "Plural Name": "骨头"
+    },
+    "soul_soil": {
+      "_Name": "Soul Soil",
+      "Name": "灵魂土壤",
+      "_Plural Name": "Soul Soil",
+      "Plural Name": "灵魂土壤"
+    },
+    "flesh": {
+      "_Name": "Flesh",
+      "Name": "血肉",
+      "_Plural Name": "Flesh",
+      "Plural Name": "血肉"
+    },
+    "corpse": {
+      "_Name": "Corpse",
+      "Name": "尸体",
+      "_Plural Name": "Corpses",
+      "Plural Name": "尸体"
+    },
+    "spirit": {
+      "_Name": "Spirit",
+      "Name": "灵魂",
+      "_Plural Name": "Spirit",
+      "Plural Name": "灵魂"
+    },
+    "tithe": {
+      "_Name": "Tithe",
+      "Name": "什一税",
+      "_Plural Name": "Tithe",
+      "Plural Name": "什一税"
+    },
+    "ulcer": {
+      "_Name": "Ulcer",
+      "Name": "溃疡",
+      "_Plural Name": "Ulcers",
+      "Plural Name": "溃疡"
+    },
+    "core_residue": {
+      "_Name": "Core Residue",
+      "Name": "核心残渣",
+      "_Plural Name": "Core Residue",
+      "Plural Name": "核心残渣"
+    },
+    "acolyte": {
+      "_Name": "Acolyte",
+      "Name": "侍僧",
+      "_Plural Name": "Acolytes",
+      "Plural Name": "侍僧"
+    },
+    "sanguine_acolyte": {
+      "_Name": "Sanguine Acolyte",
+      "Name": "血腥侍僧",
+      "_Plural Name": "Sanguine Acolytes",
+      "Plural Name": "血腥侍僧"
+    },
+    "radioactive_waste": {
+      "_Name": "Radioactive Waste",
+      "Name": "放射性废料",
+      "_Plural Name": "Radioactive Waste",
+      "Plural Name": "放射性废料"
+    },
+    "soul_ember": {
+      "_Name": "Soul Ember",
+      "Name": "灵魂余烬",
+      "_Plural Name": "Soul Embers",
+      "Plural Name": "灵魂余烬",
+      "_Currency Window Folder": "Top",
+      "Currency Window Folder": "顶部"
+    },
+    "joy": {
+      "_Name": "Joy",
+      "Name": "喜悦",
+      "_Plural Name": "Joy",
+      "Plural Name": "喜悦"
+    },
+    "grief": {
+      "_Name": "Grief",
+      "Name": "悲伤",
+      "_Plural Name": "Grief",
+      "Plural Name": "悲伤"
+    },
+    "lbxp1": {
+      "_Name": "Lbxp",
+      "Name": "经验值",
+      "_Plural Name": "Lbxp",
+      "Plural Name": "经验值"
+    },
+    "lbxp2": {
+      "_Name": "Lbxp",
+      "Name": "经验值",
+      "_Plural Name": "Lbxp",
+      "Plural Name": "经验值"
+    },
+    "lbxp_arcade": {
+      "_Name": "Lbxp Arcade",
+      "Name": "街机经验值",
+      "_Plural Name": "Lbxp Arcade",
+      "Plural Name": "街机经验值"
+    }
+  },
+  "Jobs": {
+    "fill_juice": {
+      "_Name": "Juice Up",
+      "Name": "补充果汁",
+      "_Status Text": "Juicing!",
+      "Status Text": "补液中！"
+    },
+    "fill_rage_juice": {
+      "_Name": "Enrage",
+      "Name": "激怒",
+      "_Status Text": "Raging!",
+      "Status Text": "狂怒中！"
+    },
+    "coal": {
+      "_Name": "Dig",
+      "Name": "挖掘",
+      "_Status Text": "Digging!",
+      "Status Text": "挖掘中！"
+    },
+    "stone": {
+      "_Name": "Gather",
+      "Name": "收集",
+      "_Status Text": "Gathering!",
+      "Status Text": "收集中！"
+    },
+    "stone2": {
+      "_Name": "Scrounge",
+      "Name": "乞讨",
+      "_Status Text": "Scrounging!",
+      "Status Text": "乞讨中！"
+    },
+    "iron_ore": {
+      "_Name": "Murder",
+      "Name": "谋杀",
+      "_Status Text": "Murdering!",
+      "Status Text": "谋杀中！"
+    },
+    "copper_ore": {
+      "_Name": "Mine",
+      "Name": "开采",
+      "_Status Text": "Mining!",
+      "Status Text": "开采中！"
+    },
+    "iron": {
+      "_Name": "Toast",
+      "Name": "烘烤",
+      "_Status Text": "Toasting!",
+      "Status Text": "烘烤中！"
+    },
+    "copper": {
+      "_Name": "Roast",
+      "Name": "烘焙",
+      "_Status Text": "Roasting!",
+      "Status Text": "烘焙中！"
+    },
+    "growth": {
+      "_Name": "Pop",
+      "Name": "爆发",
+      "_Status Text": "Popping!",
+      "Status Text": "爆发中！"
+    },
+    "growth2": {
+      "_Name": "Burst",
+      "Name": "迸裂",
+      "_Status Text": "Bursting!",
+      "Status Text": "迸裂中！"
+    },
+    "joule": {
+      "_Name": "Redirect",
+      "Name": "转向",
+      "_Status Text": "Redirecting!",
+      "Status Text": "转向中！"
+    },
+    "concrete": {
+      "_Name": "Mash",
+      "Name": "捣碎",
+      "_Status Text": "Mashing!",
+      "Status Text": "捣碎中！"
+    },
+    "oil": {
+      "_Name": "Succ",
+      "Name": "吮吸",
+      "_Status Text": "Succing!",
+      "Status Text": "吮吸中！"
+    },
+    "tarball": {
+      "_Name": "Mutate",
+      "Name": "变异",
+      "_Status Text": "Mutating!",
+      "Status Text": "变异中！"
+    },
+    "malignancy": {
+      "_Name": "Exist",
+      "Name": "存在",
+      "_Status Text": "Existing!",
+      "Status Text": "存在中！"
+    },
+    "malignancy2": {
+      "_Name": "Be",
+      "Name": "成为",
+      "_Status Text": "Being!",
+      "Status Text": "成为中！"
+    },
+    "juice": {
+      "_Name": "Squeeze Juice",
+      "Name": "榨汁",
+      "_Status Text": "Squeezing!",
+      "Status Text": "榨汁中！"
+    },
+    "rage_juice": {
+      "_Name": "Choke Rage Juice",
+      "Name": "窒汁",
+      "_Status Text": "Choking!",
+      "Status Text": "窒汁中！"
+    },
+    "gem": {
+      "_Name": "Blast",
+      "Name": "爆破",
+      "_Status Text": "Blastin!",
+      "Status Text": "爆破中！"
+    },
+    "ad": {
+      "_Name": "Watch",
+      "Name": "观看",
+      "_Status Text": "Watching!",
+      "Status Text": "观看中！"
+    },
+    "battle_pass": {
+      "_Name": "Subscribe",
+      "Name": "订阅",
+      "_Status Text": "Subscribing!",
+      "Status Text": "订阅中！"
+    },
+    "deluxe": {
+      "_Name": "Pre-order",
+      "Name": "预购",
+      "_Status Text": "Pre-ordering!",
+      "Status Text": "预购中！"
+    },
+    "whale": {
+      "_Name": "Donate",
+      "Name": "捐赠",
+      "_Status Text": "Donating!",
+      "Status Text": "捐赠中！"
+    },
+    "axe": {
+      "_Name": "Assemble",
+      "Name": "组装",
+      "_Status Text": "Assembling!",
+      "Status Text": "组装中！"
+    },
+    "axe2": {
+      "_Name": "Emergency Routine A",
+      "Name": "紧急程序 A",
+      "_Status Text": "Assembling?!",
+      "Status Text": "组装中？！"
+    },
+    "carcinogen": {
+      "_Name": "todo",
+      "Name": "待办",
+      "_Status Text": "Todoing!",
+      "Status Text": "待办中！"
+    },
+    "cigarette": {
+      "_Name": "Smoke",
+      "Name": "吸烟",
+      "_Status Text": "Smoking!",
+      "Status Text": "吸烟中！"
+    },
+    "draw_plate": {
+      "_Name": "Doodle",
+      "Name": "涂鸦",
+      "_Status Text": "Doodling!",
+      "Status Text": "涂鸦中！"
+    },
+    "galena": {
+      "_Name": "Jackhammer",
+      "Name": "风钻",
+      "_Status Text": "Jackhammering!",
+      "Status Text": "风钻中！"
+    },
+    "glass": {
+      "_Name": "Glass",
+      "Name": "玻化",
+      "_Status Text": "Glassing!",
+      "Status Text": "玻化中！"
+    },
+    "glass2": {
+      "_Name": "Bomb",
+      "Name": "轰炸",
+      "_Status Text": "Bombing!",
+      "Status Text": "轰炸中！"
+    },
+    "hardwood": {
+      "_Name": "Seduce",
+      "Name": "诱惑",
+      "_Status Text": "Seducing!",
+      "Status Text": "诱惑中！"
+    },
+    "humus": {
+      "_Name": "Shit",
+      "Name": "排泄",
+      "_Status Text": "Shitting!",
+      "Status Text": "排泄中！"
+    },
+    "lead": {
+      "_Name": "Blast",
+      "Name": "爆破",
+      "_Status Text": "Blasting!",
+      "Status Text": "爆破中！"
+    },
+    "liquid_iron": {
+      "_Name": "Boil",
+      "Name": "煮沸",
+      "_Status Text": "Boiling!",
+      "Status Text": "煮沸中！"
+    },
+    "paper": {
+      "_Name": "Paperify",
+      "Name": "纸化",
+      "_Status Text": "Paperifying!",
+      "Status Text": "纸化中！"
+    },
+    "petroleum": {
+      "_Name": "Process",
+      "Name": "加工",
+      "_Status Text": "Processing!",
+      "Status Text": "加工中！"
+    },
+    "plastic": {
+      "_Name": "Pollute",
+      "Name": "污染",
+      "_Status Text": "Polluting!",
+      "Status Text": "污染中！"
+    },
+    "sand": {
+      "_Name": "Levitate",
+      "Name": "悬浮",
+      "_Status Text": "Levitating!",
+      "Status Text": "悬浮中！"
+    },
+    "sand2": {
+      "_Name": "Slosh",
+      "Name": "晃动",
+      "_Status Text": "Sloshing!",
+      "Status Text": "晃动中！"
+    },
+    "seed": {
+      "_Name": "Pollenate",
+      "Name": "授粉",
+      "_Status Text": "Pollenating!",
+      "Status Text": "授粉中！"
+    },
+    "soil": {
+      "_Name": "Bag",
+      "Name": "装袋",
+      "_Status Text": "Bagging!",
+      "Status Text": "装袋中！"
+    },
+    "steel": {
+      "_Name": "Slam",
+      "Name": "重击",
+      "_Status Text": "Slamming!",
+      "Status Text": "重击中！"
+    },
+    "tobacco": {
+      "_Name": "Puff",
+      "Name": "吸食",
+      "_Status Text": "Puffing!",
+      "Status Text": "吸食中！"
+    },
+    "tree": {
+      "_Name": "Grow",
+      "Name": "生长",
+      "_Status Text": "Growing!",
+      "Status Text": "生长中！"
+    },
+    "tree2": {
+      "_Name": "Photosynthesate",
+      "Name": "光合",
+      "_Status Text": "Photosynthesizing!",
+      "Status Text": "光合中！"
+    },
+    "tumor": {
+      "_Name": "Grow",
+      "Name": "生长",
+      "_Status Text": "Growing!",
+      "Status Text": "生长中！"
+    },
+    "water": {
+      "_Name": "Splish-Splash",
+      "Name": "溅水",
+      "_Status Text": "Splashing!",
+      "Status Text": "溅水中！"
+    },
+    "wire": {
+      "_Name": "Wrap",
+      "Name": "包装",
+      "_Status Text": "Wrapping!",
+      "Status Text": "包装中！"
+    },
+    "wood": {
+      "_Name": "Obliterate",
+      "Name": "湮灭",
+      "_Status Text": "Obliterating!",
+      "Status Text": "湮灭中！"
+    },
+    "wood2": {
+      "_Name": "Subliterate",
+      "Name": "文盲",
+      "_Status Text": "Subliterating!",
+      "Status Text": "文盲中！"
+    },
+    "wood_pulp": {
+      "_Name": "Strip",
+      "Name": "剥离",
+      "_Status Text": "Stripping!",
+      "Status Text": "剥离中！"
+    },
+    "tea": {
+      "_Name": "Brew",
+      "Name": "冲泡",
+      "_Status Text": "Brewing!",
+      "Status Text": "冲泡中！"
+    },
+    "coffee": {
+      "_Name": "Brew",
+      "Name": "冲泡",
+      "_Status Text": "Brewing!",
+      "Status Text": "冲泡中！"
+    },
+    "beef": {
+      "_Name": "Grill",
+      "Name": "烧烤",
+      "_Status Text": "Grilling!",
+      "Status Text": "烧烤中！"
+    },
+    "resolve": {
+      "_Name": "Muster",
+      "Name": "鼓舞",
+      "_Status Text": "Mustering!",
+      "Status Text": "鼓舞中！"
+    },
+    "grit": {
+      "_Name": "Call",
+      "Name": "呼唤",
+      "_Status Text": "Calling!",
+      "Status Text": "呼唤中！"
+    },
+    "foundation": {
+      "_Name": "Lay",
+      "Name": "铺设",
+      "_Status Text": "Laying!",
+      "Status Text": "铺设中！"
+    },
+    "crystal": {
+      "_Name": "Excavate",
+      "Name": "挖掘",
+      "_Status Text": "Excavating!",
+      "Status Text": "挖掘中！"
+    },
+    "tome": {
+      "_Name": "Bind",
+      "Name": "装订",
+      "_Status Text": "Binding!",
+      "Status Text": "装订中！"
+    },
+    "arcane": {
+      "_Name": "Infuse",
+      "Name": "注入",
+      "_Status Text": "Infusing!",
+      "Status Text": "注入中！"
+    },
+    "faith": {
+      "_Name": "Pray",
+      "Name": "祈祷",
+      "_Status Text": "Praying!",
+      "Status Text": "祈祷中！"
+    },
+    "evangelism": {
+      "_Name": "Evangelize",
+      "Name": "传道",
+      "_Status Text": "Evangelizing!",
+      "Status Text": "传道中！"
+    },
+    "blood": {
+      "_Name": "Bloodlet",
+      "Name": "放血",
+      "_Status Text": "Bloodletting!",
+      "Status Text": "放血中！"
+    },
+    "raw_titanium": {
+      "_Name": "todo",
+      "_Status Text": "todo"
+    },
+    "coke": {
+      "_Name": "Hit",
+      "Name": "击打",
+      "_Status Text": "Hitting",
+      "Status Text": "击打中"
+    },
+    "electrolysis": {
+      "_Name": "Split",
+      "Name": "分解",
+      "_Status Text": "Splitting!",
+      "Status Text": "分解中！"
+    },
+    "tetrachloride": {
+      "_Name": "Chlorinate",
+      "Name": "氯化",
+      "_Status Text": "Chlorinating!",
+      "Status Text": "氯化中！"
+    },
+    "sponge": {
+      "_Name": "Crush",
+      "Name": "粉碎",
+      "_Status Text": "Crushing!",
+      "Status Text": "粉碎中！"
+    },
+    "titanium_mix": {
+      "_Name": "Mix",
+      "Name": "混合",
+      "_Status Text": "Mixing!",
+      "Status Text": "混合中！"
+    },
+    "titanium": {
+      "_Name": "Smelt",
+      "Name": "冶炼",
+      "_Status Text": "Smelting!",
+      "Status Text": "冶炼中！"
+    },
+    "lubricant": {
+      "_Name": "Lube",
+      "Name": "润滑",
+      "_Status Text": "Lubing!",
+      "Status Text": "润滑中！"
+    },
+    "drill": {
+      "_Name": "Forge",
+      "Name": "锻造",
+      "_Status Text": "Forging!",
+      "Status Text": "锻造中！"
+    },
+    "raw_uranium": {
+      "_Name": "Drill",
+      "Name": "钻探",
+      "_Status Text": "Drilling!",
+      "Status Text": "钻探中！"
+    },
+    "uranium": {
+      "_Name": "Cook",
+      "Name": "烹饪",
+      "_Status Text": "Cooking!",
+      "Status Text": "烹饪中！"
+    },
+    "bone": {
+      "_Name": "Bubble",
+      "Name": "冒泡",
+      "_Status Text": "Bubbling Up!",
+      "Status Text": "冒泡中！"
+    },
+    "soul_soil": {
+      "_Name": "Transmute",
+      "Name": "转化",
+      "_Status Text": "Transmuting!",
+      "Status Text": "转化中！"
+    },
+    "flesh": {
+      "_Name": "Bloom",
+      "Name": "绽放",
+      "_Status Text": "Blooming!",
+      "Status Text": "绽放中！"
+    },
+    "necro": {
+      "_Name": "Summon",
+      "Name": "召唤",
+      "_Status Text": "Summoning!",
+      "Status Text": "召唤中！"
+    },
+    "lich": {
+      "_Name": "Burn",
+      "Name": "燃烧",
+      "_Status Text": "Burning!",
+      "Status Text": "燃烧中！"
+    }
+  },
+  "LOREDs": {
+    "coal": {
+      "_Title": "Coal",
+      "Title": "煤炭",
+      "_Name": "Carl",
+      "Name": "卡尔",
+      "_Description": "Plays support in every game.",
+      "Description": "在每场游戏中都担任辅助角色。",
+      "_Favorite Thing": "Holes (2003)!",
+      "Favorite Thing": "《别有洞天》(2003)！"
+    },
+    "stone": {
+      "_Title": "Stone",
+      "Title": "石头",
+      "_Name": "Scoot",
+      "Name": "斯库特",
+      "_Description": "Likes rocks. Has a bottomless bag.",
+      "Description": "喜欢岩石。拥有一个无底袋。",
+      "_Favorite Thing": "Show-and-tell day!",
+      "Favorite Thing": "展示分享日！"
+    },
+    "iron_ore": {
+      "_Title": "Raw Iron",
+      "Title": "粗铁",
+      "_Name": "Ted",
+      "Name": "泰德",
+      "_Description": "Has suspect morals.",
+      "Description": "道德可疑。",
+      "_Favorite Thing": "Long knives.",
+      "Favorite Thing": "长刀。"
+    },
+    "copper_ore": {
+      "_Title": "Raw Copper",
+      "Title": "粗铜",
+      "_Name": "Eugene",
+      "Name": "尤金",
+      "_Description": "Trapped in a dead-end job. Literally.",
+      "Description": "被困在死胡同工作中。字面意思。",
+      "_Favorite Thing": "Hot meat loaf.",
+      "Favorite Thing": "热肉饼。"
+    },
+    "iron": {
+      "_Title": "Iron",
+      "Title": "铁",
+      "_Name": "Will",
+      "Name": "威尔",
+      "_Description": "Wants everyone to succeed.",
+      "Description": "希望每个人都成功。",
+      "_Favorite Thing": "Pizza parties!",
+      "Favorite Thing": "披萨聚会！"
+    },
+    "copper": {
+      "_Title": "Copper",
+      "Title": "铜",
+      "_Name": "Ben",
+      "Name": "本",
+      "_Description": "Loves s'mores.",
+      "Description": "喜欢烤棉花糖。",
+      "_Favorite Thing": "Fallout: New Vegas!",
+      "Favorite Thing": "辐射：新维加斯！"
+    },
+    "growth": {
+      "_Title": "Growth",
+      "Title": "生长",
+      "_Name": "Percy",
+      "Name": "珀西",
+      "_Description": "Drinks apple and banana smoothies every day!",
+      "Description": "每天都喝苹果香蕉奶昔！",
+      "_Favorite Thing": "10 minute breaks.",
+      "Favorite Thing": "10 分钟休息。"
+    },
+    "joule": {
+      "_Title": "Joules",
+      "Title": "焦耳",
+      "_Name": "Notzuko",
+      "Name": "野津子",
+      "_Description": "Follows Tesla on [s]Twitter[/s] X.",
+      "Description": "在[s]推特[/s] X 上关注特斯拉。",
+      "_Favorite Thing": "Cars!!!",
+      "Favorite Thing": "汽车！！！"
+    },
+    "concrete": {
+      "_Title": "Concrete",
+      "Title": "混凝土",
+      "_Name": "Santos",
+      "Name": "桑托斯",
+      "_Description": "Anything can make him laugh.",
+      "Description": "任何事情都能让他发笑。",
+      "_Favorite Thing": "Gatorade.",
+      "Favorite Thing": "佳得乐。"
+    },
+    "oil": {
+      "_Title": "Oil",
+      "Title": "油",
+      "_Name": "Odd Lee",
+      "Name": "古怪李",
+      "_Description": "Is a big, fat baby.",
+      "Description": "是个胖胖的大婴儿。",
+      "_Favorite Thing": "iPad!!!",
+      "Favorite Thing": "iPad！！！"
+    },
+    "tarball": {
+      "_Title": "Tarball",
+      "Title": "肉团",
+      "_Name": "Dillon",
+      "Name": "迪隆",
+      "_Description": "Quiet science guy.",
+      "Description": "安静的科学家。",
+      "_Favorite Thing": "WoW TBC.",
+      "Favorite Thing": "魔兽世界：燃烧的远征。"
+    },
+    "malignancy": {
+      "_Title": "Malignancy",
+      "Title": "恶性肿瘤",
+      "_Name": "Tenant",
+      "Name": "租客",
+      "_Description": "Infinite clones.",
+      "Description": "无限克隆体。",
+      "_Favorite Thing": "Prayer.",
+      "Favorite Thing": "祈祷。"
+    },
+    "gem": {
+      "_Title": "Gem",
+      "Title": "宝石",
+      "_Name": "Gemma",
+      "Name": "杰玛",
+      "_Description": "Has a funny accent.",
+      "Description": "有着有趣的口音。",
+      "_Favorite Thing": "Shopping!",
+      "Favorite Thing": "购物！"
+    },
+    "ad": {
+      "_Title": "Ad",
+      "Title": "广告",
+      "_Name": "ATTICUS",
+      "Name": "阿提库斯",
+      "_Description": "Has purchased \"Disable all Ads\" in more than 25,000 games.",
+      "Description": "在超过 25,000 款游戏中购买了“禁用所有广告”。",
+      "_Favorite Thing": "\"Skip ad\" buttons!",
+      "Favorite Thing": "“跳过广告”按钮！"
+    },
+    "battle_pass": {
+      "_Title": "Battle Pass",
+      "Title": "战斗通行证",
+      "_Name": "Georgio",
+      "Name": "乔治奥",
+      "_Description": "Grinds the same game every day. Doesn't enjoy life all that much.",
+      "Description": "每天都在同一个游戏里刷刷刷。生活没什么乐趣。",
+      "_Favorite Thing": "Burning cash!",
+      "Favorite Thing": "烧钱！"
+    },
+    "deluxe": {
+      "_Title": "Deluxe",
+      "Title": "豪华版",
+      "_Name": "Maxwell",
+      "Name": "麦克斯韦",
+      "_Description": "Doesn't even like video games, but sure does love spending money!",
+      "Description": "甚至不喜欢电子游戏，但确实很爱花钱！",
+      "_Favorite Thing": "Being rich.",
+      "Favorite Thing": "做富人。"
+    },
+    "whale": {
+      "_Title": "Whale",
+      "Title": "鲸鱼",
+      "_Name": "Orson",
+      "Name": "奥森",
+      "_Description": "Recoups in 10 milliseconds what he throws away.",
+      "Description": "在 10 毫秒内就能赚回他扔掉的钱。",
+      "_Favorite Thing": "Beating F2Pers!",
+      "Favorite Thing": "击败免费玩家！"
+    },
+    "axe": {
+      "_Title": "Axe",
+      "Title": "斧头",
+      "_Name": "Alaxea",
+      "Name": "阿莱克西亚",
+      "_Description": "IN THE YEAR 202070707020. I AM WAKAKO.",
+      "Description": "在 202070707020 年。我是若子。",
+      "_Favorite Thing": "Legos.",
+      "Favorite Thing": "乐高。"
+    },
+    "carcinogen": {
+      "_Title": "Carcinogen",
+      "Title": "致癌物",
+      "_Name": "Lamash",
+      "Name": "拉马什",
+      "_Description": "His only purpose in life is to cause pain and mayhem.",
+      "Description": "他人生的唯一目的就是制造痛苦和混乱。",
+      "_Favorite Thing": "Killing little creatures.",
+      "Favorite Thing": "杀死小生物。"
+    },
+    "cigarette": {
+      "_Title": "Cigarette",
+      "Title": "香烟",
+      "_Name": "George",
+      "Name": "乔治",
+      "_Description": "On his 45th smoke break this shift.",
+      "Description": "这班已经第 45 次抽烟休息了。",
+      "_Favorite Thing": "Having a smoke after smoking.",
+      "Favorite Thing": "抽完烟后再抽一根。"
+    },
+    "draw_plate": {
+      "_Title": "Draw Plate",
+      "Title": "拉制板",
+      "_Name": "Billy",
+      "Name": "比利",
+      "_Description": "Can run really fast.",
+      "Description": "跑得非常快。",
+      "_Favorite Thing": "[shake rate=20.0 level=5]Recess!!![/shake]",
+      "Favorite Thing": "[shake rate=20.0 level=5]课间休息！！！[/shake]"
+    },
+    "galena": {
+      "_Title": "Galena",
+      "Title": "方铅矿",
+      "_Name": "Jack",
+      "Name": "杰克",
+      "_Description": "Almost went down the {name lored iron_ore} path but then discovered construction!",
+      "Description": "差点走上{name lored iron_ore}的道路，但后来发现了建筑！",
+      "_Favorite Thing": "Vibrating massagers.",
+      "Favorite Thing": "振动按摩器。"
+    },
+    "glass": {
+      "_Title": "Glass",
+      "Title": "玻璃",
+      "_Name": "Shyuum",
+      "Name": "修姆",
+      "_Description": "Vaporizes people for 'religious reasons'.",
+      "Description": "以“宗教原因”蒸发别人。",
+      "_Favorite Thing": "Branding heretics.",
+      "Favorite Thing": "烙印异教徒。"
+    },
+    "hardwood": {
+      "_Title": "Hardwood",
+      "Title": "硬木",
+      "_Name": "Rabbit",
+      "Name": "兔子",
+      "_Description": "She was born with her hard hat already equipped.",
+      "Description": "她出生时就已经戴着安全帽了。",
+      "_Favorite Thing": "Donations!",
+      "Favorite Thing": "捐款！"
+    },
+    "humus": {
+      "_Title": "Humus",
+      "Title": "腐殖质",
+      "_Name": "Jaques",
+      "Name": "雅克",
+      "_Description": "The shittiest character in the game.",
+      "Description": "游戏中最垃圾的角色。",
+      "_Favorite Thing": "Apples.",
+      "Favorite Thing": "苹果。"
+    },
+    "lead": {
+      "_Title": "Lead",
+      "Title": "铅",
+      "_Name": "Martin",
+      "Name": "马丁",
+      "_Description": "Works all the time at a soul-sucking job and daydreams of never having been born.",
+      "Description": "一直在做着折磨心灵的工作，幻想着从未出生过。",
+      "_Favorite Thing": "Watching TV.",
+      "Favorite Thing": "看电视。"
+    },
+    "liquid_iron": {
+      "_Title": "Liquid Iron",
+      "Title": "铁水",
+      "_Name": "Boy",
+      "Name": "男孩",
+      "_Description": "Failed in home economics and later became a master soup savant!",
+      "Description": "家政课不及格，后来成为了汤羹大师！",
+      "_Favorite Thing": "Soup!",
+      "Favorite Thing": "汤！"
+    },
+    "paper": {
+      "_Title": "Paper",
+      "Title": "纸张",
+      "_Name": "Sawyer",
+      "Name": "索耶",
+      "_Description": "Was in the boy scouts for 25 years.",
+      "Description": "在童子军待了 25 年。",
+      "_Favorite Thing": "Drawing tablets!",
+      "Favorite Thing": "绘图板！"
+    },
+    "petroleum": {
+      "_Title": "Petroleum",
+      "Title": "石油",
+      "_Name": "Timmy",
+      "Name": "蒂米",
+      "_Description": "Once rode [i]Thunder Mountain Railroad[/i] [b]500[/b] times in a row!",
+      "Description": "曾经连续乘坐[i]雷鸣山铁路[/i] [b]500[/b] 次！",
+      "_Favorite Thing": "Super slides!",
+      "Favorite Thing": "超级滑梯！"
+    },
+    "plastic": {
+      "_Title": "Plastic",
+      "Title": "塑料",
+      "_Name": "Dolly",
+      "Name": "朵丽",
+      "_Description": "Wears an iron groin plate.",
+      "Description": "穿着铁质胯甲。",
+      "_Favorite Thing": "Little homunculi!",
+      "Favorite Thing": "小小的人造人！"
+    },
+    "sand": {
+      "_Title": "Sand",
+      "Title": "沙子",
+      "_Name": "Herakin",
+      "Name": "赫拉金",
+      "_Description": "Didn't get DisneyPlus-ed.",
+      "Description": "没有被迪士尼+化。",
+      "_Favorite Thing": "Bad boys!",
+      "Favorite Thing": "坏男孩！"
+    },
+    "seed": {
+      "_Title": "Seed",
+      "Title": "种子",
+      "_Name": "Maybe",
+      "Name": "梅比",
+      "_Description": "Sounds scary but is a nice guy!",
+      "Description": "听起来很吓人，但其实是个好人！",
+      "_Favorite Thing": "Keeping beesy.",
+      "Favorite Thing": "养蜜蜂。"
+    },
+    "soil": {
+      "_Title": "Soil",
+      "Title": "土壤",
+      "_Name": "Mike",
+      "Name": "迈克",
+      "_Description": "Accrues a lot of overtime.",
+      "Description": "经常加班到很晚。",
+      "_Favorite Thing": "Candles.",
+      "Favorite Thing": "蜡烛。"
+    },
+    "steel": {
+      "_Title": "Steel",
+      "Title": "钢铁",
+      "_Name": "Ryan",
+      "Name": "瑞恩",
+      "_Description": "Is as strong as Guts.",
+      "Description": "和古兹一样强壮。",
+      "_Favorite Thing": "Blast masks.",
+      "Favorite Thing": "爆炸面具。"
+    },
+    "tobacco": {
+      "_Title": "Tobacco",
+      "Title": "烟草",
+      "_Name": "Gondalf",
+      "Name": "甘道夫",
+      "_Description": "Thinks vapes are dangerous.",
+      "Description": "认为电子烟很危险。",
+      "_Favorite Thing": "Bonglottom keef.",
+      "Favorite Thing": "水烟底渣。"
+    },
+    "tree": {
+      "_Title": "Tree",
+      "Title": "树木",
+      "_Name": "Biby",
+      "Name": "比比",
+      "_Description": "This dude is [b]cracked!![/b]",
+      "Description": "这家伙[b]超强的！！[/b]",
+      "_Favorite Thing": "Gymnastics.",
+      "Favorite Thing": "体操。"
+    },
+    "tumor": {
+      "_Title": "Tumor",
+      "Title": "肿瘤",
+      "_Name": "Jesse",
+      "Name": "杰西",
+      "_Description": "Makes new accounts after being banned.",
+      "Description": "被封号后会创建新账号。",
+      "_Favorite Thing": "Trolling.",
+      "Favorite Thing": "恶作剧。"
+    },
+    "water": {
+      "_Title": "Water",
+      "Title": "水",
+      "_Name": "Gatorade",
+      "Name": "佳得乐",
+      "_Description": "Reads books in his pool.",
+      "Description": "在自己的游泳池里看书。",
+      "_Favorite Thing": "The beach!!!",
+      "Favorite Thing": "海滩！！！"
+    },
+    "wire": {
+      "_Title": "Wire",
+      "Title": "电线",
+      "_Name": "Joyce",
+      "Name": "乔伊斯",
+      "_Description": "Loves her grandchildren.",
+      "Description": "疼爱她的孙子孙女们。",
+      "_Favorite Thing": "Painting!",
+      "Favorite Thing": "绘画！"
+    },
+    "wood": {
+      "_Title": "Wood",
+      "Title": "木材",
+      "_Name": "Goketa",
+      "Name": "悟克塔",
+      "_Description": "Cut one down for the legends who ain't with us anymore.",
+      "Description": "为那些已经不在我们身边的传奇砍下一棵。",
+      "_Favorite Thing": "Power scaling.",
+      "Favorite Thing": "实力分级。"
+    },
+    "wood_pulp": {
+      "_Title": "Wood Pulp",
+      "Title": "木浆",
+      "_Name": "Huste",
+      "Name": "胡斯特",
+      "_Description": "Misses the Duke Tree.",
+      "Description": "想念公爵树。",
+      "_Favorite Thing": "Puzzles!",
+      "Favorite Thing": "拼图！"
+    },
+    "tea": {
+      "_Title": "Tea",
+      "Title": "茶叶",
+      "_Name": "todo",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "beef": {
+      "_Title": "Beef",
+      "Title": "牛肉",
+      "_Name": "Cow",
+      "Name": "奶牛",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "resolve": {
+      "_Title": "Resolve",
+      "Title": "决心",
+      "_Name": "Martin",
+      "Name": "马丁",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "grit": {
+      "_Title": "Grit",
+      "Title": "砂砾",
+      "_Name": "Cowboh",
+      "Name": "牛仔波",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "foundation": {
+      "_Title": "Foundation",
+      "Title": "基础",
+      "_Name": "Iroh",
+      "Name": "艾洛",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "crystal": {
+      "_Title": "Crystal",
+      "Title": "水晶",
+      "_Name": "Debbi",
+      "Name": "黛比",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "tome": {
+      "_Title": "Tome",
+      "Title": "巨册",
+      "_Name": "todo",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "arcane": {
+      "_Title": "Arcane",
+      "Title": "奥术",
+      "_Name": "Arvandus",
+      "Name": "阿尔万杜斯",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "coffee": {
+      "_Title": "Coffee",
+      "Title": "咖啡",
+      "_Name": "Lilith",
+      "Name": "莉莉丝",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "faith": {
+      "_Title": "Faith",
+      "Title": "信仰",
+      "_Name": "Christina",
+      "Name": "克里斯蒂娜",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "evangelism": {
+      "_Title": "Evangelism",
+      "Title": "传道",
+      "_Name": "John",
+      "Name": "约翰",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "blood": {
+      "_Title": "Blood",
+      "Title": "血液",
+      "_Name": "Charity",
+      "Name": "慈善",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "raw_titanium": {
+      "_Title": "Raw Titanium",
+      "Title": "粗钛",
+      "_Name": "todo",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "coke": {
+      "_Title": "Coke",
+      "Title": "焦炭",
+      "_Name": "Debbi",
+      "Name": "黛比",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "electrolysis": {
+      "_Title": "Electrolysis",
+      "Title": "电解",
+      "_Name": "todo",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "tetrachloride": {
+      "_Title": "Tetrachloride",
+      "Title": "四氯化物",
+      "_Name": "todo",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "sponge": {
+      "_Title": "Sponge",
+      "Title": "海绵",
+      "_Name": "Bob",
+      "Name": "鲍勃",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "titanium_mix": {
+      "_Title": "Titanium Mix",
+      "Title": "钛合金",
+      "_Name": "todo",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "titanium": {
+      "_Title": "Titanium",
+      "Title": "钛",
+      "_Name": "todo",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "lubricant": {
+      "_Title": "Lubricant",
+      "Title": "润滑剂",
+      "_Name": "todo",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "drill": {
+      "_Title": "Drill",
+      "Title": "钻头",
+      "_Name": "Drillur",
+      "Name": "钻尔",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "raw_uranium": {
+      "_Title": "Raw Uranium",
+      "Title": "粗铀",
+      "_Name": "todo",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "uranium": {
+      "_Title": "Uranium",
+      "Title": "铀",
+      "_Name": "todo",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "bone": {
+      "_Title": "Bone",
+      "Title": "骨头",
+      "_Name": "Bone Pool",
+      "Name": "骨池",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "soul_soil": {
+      "_Title": "Soul Soil",
+      "Title": "灵魂土壤",
+      "_Name": "Sole Soyal",
+      "Name": "索尔·索雅尔",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "flesh": {
+      "_Title": "Flesh",
+      "Title": "血肉",
+      "_Name": "Flesh Rose",
+      "Name": "血肉玫瑰",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "necro": {
+      "_Title": "Necro",
+      "Title": "亡灵",
+      "_Name": "Lucius",
+      "Name": "卢修斯",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    },
+    "lich": {
+      "_Title": "Lich",
+      "Title": "巫妖",
+      "_Name": "Lich",
+      "Name": "巫妖",
+      "_Description": "todo",
+      "_Favorite Thing": "todo"
+    }
+  },
+  "Stages": {
+    "main0": {
+      "_Name": "Void",
+      "Name": "虚空"
+    },
+    "main1": {
+      "_Name": "Stage 1",
+      "Name": "阶段 1"
+    },
+    "main2": {
+      "_Name": "Stage 2",
+      "Name": "阶段 2"
+    },
+    "main3": {
+      "_Name": "Stage 3",
+      "Name": "阶段 3"
+    },
+    "main4": {
+      "_Name": "Stage 4",
+      "Name": "阶段 4"
+    }
+  },
+  "Upgrades": {
+    "unlock_coal": {
+      "_Name": "Coal LORED",
+      "Name": "煤炭 LORED",
+      "_Effect Text": "Unlock {name lored coal}, 即 {title lored coal} LORED",
+      "Effect Text": "解锁 {name lored coal} 即 {title lored coal} LORED"
+    },
+    "grinder": {
+      "_Name": "Grinder",
+      "Name": "磨床",
+      "_Effect Text": "Haste [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored stone}",
+      "Effect Text": "{name lored stone} 加速 [b]×EffectText[/b]"
+    },
+    "grander": {
+      "_Name": "Grander",
+      "Name": "大磨床",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored stone}",
+      "Effect Text": "{name lored stone} 输出和输入 [b]×EffectText[/b]"
+    },
+    "unlock_iron_ore": {
+      "_Name": "Raw Iron LORED",
+      "Name": "粗铁 LORED",
+      "_Effect Text": "Unlock {name lored iron_ore}, 即 {title lored iron_ore} LORED",
+      "Effect Text": "解锁 {name lored iron_ore} 即 {title lored iron_ore} LORED"
+    },
+    "unlock_iron": {
+      "_Name": "Iron LORED",
+      "Name": "铁 LORED",
+      "_Effect Text": "Unlock {name lored iron}, 即 {title lored iron} LORED",
+      "Effect Text": "解锁 {name lored iron} 即 {title lored iron} LORED"
+    },
+    "unlock_copper": {
+      "_Name": "Copper LORED",
+      "Name": "铜 LORED",
+      "_Effect Text": "Unlock {name lored copper}, 即 {title lored copper} LORED",
+      "Effect Text": "解锁 {name lored copper} 即 {title lored copper} LORED"
+    },
+    "unlock_copper_ore": {
+      "_Name": "Raw Copper LORED",
+      "Name": "粗铜 LORED",
+      "Class": "Upgrade",
+      "_Effect Text": "Unlock {name lored copper_ore},NEWLINEthe {title lored copper_ore} LORED",
+      "Effect Text": "解锁 {name lored copper_ore} 即 {title lored copper_ore} LORED"
+    },
+    "texas": {
+      "_Name": "Texas",
+      "Name": "德克萨斯",
+      "_Effect Text": "Haste [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored iron}",
+      "Effect Text": "{name lored iron} 加速 [b]×EffectText[/b]"
+    },
+    "honey_maid": {
+      "_Name": "Honey Maid",
+      "Name": "蜂蜜饼干",
+      "_Effect Text": "Haste [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored copper}",
+      "Effect Text": "{name lored copper} 加速 [b]×EffectText[/b]"
+    },
+    "unlock_emotes": {
+      "_Name": "Freedom of Speech",
+      "Name": "言论自由",
+      "_Effect Text": "Unlock Emotes!",
+      "Effect Text": "解锁表情！"
+    },
+    "unlock_sleep": {
+      "_Name": "Cloudy Day",
+      "Name": "阴天",
+      "_Effect Text": "Unlock LORED Sleep!",
+      "Effect Text": "解锁 LORED 睡眠！"
+    },
+    "unlock_safety_wheel": {
+      "_Name": "Wat da hell goin on",
+      "Name": "到底咋回事",
+      "_Effect Text": "Unlock the safety wheel, the jobs viewer, and the widget panel.",
+      "Effect Text": "解锁安全轮、工作查看器和小部件面板。"
+    },
+    "neo_fair_trade": {
+      "_Name": "Fair Trade",
+      "Name": "公平贸易"
+    },
+    "lighter_shovel": {
+      "_Name": "Lighter Shovel",
+      "Name": "更轻的铲子",
+      "_Effect Text": "Haste [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored coal}",
+      "Effect Text": "{name lored coal} 加速 [b]×EffectText[/b]"
+    },
+    "salt": {
+      "_Name": "Salt",
+      "Name": "盐",
+      "_Effect Text": "Haste [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored iron_ore}",
+      "Effect Text": "{name lored iron_ore} 加速 [b]×EffectText[/b]"
+    },
+    "sand": {
+      "_Name": "Sand",
+      "Name": "沙子",
+      "_Effect Text": "Haste [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored sand}",
+      "Effect Text": "{name lored sand} 加速 [b]×EffectText[/b]"
+    },
+    "how_is_this_an_rpg": {
+      "_Name": "How is this an RPG anyway?",
+      "Name": "这到底算不算 RPG？",
+      "_Effect Text": "Crit Chance [b]+EffectText%[/b]NEWLINE[i]for [/i]{name lored main1}",
+      "Effect Text": "{name stage main1} LORED 暴击率 [b]+EffectText%[/b]",
+      "_Description": "Tip: LOREDs roll at the beginning of every job for a chance to multiply their output by their {icon die} [color=WHITE]critical multiplier!",
+      "Description": "提示：LORED 会在每个工作开始时掷骰子，有机会将其产出乘以其 {icon die} [color=WHITE]暴击倍数[/color]！"
+    },
+    "unlock_growth": {
+      "_Name": "Growth LORED",
+      "Name": "生长 LORED",
+      "_Effect Text": "Unlock {name lored growth},NEWLINEthe {title lored growth} LORED",
+      "Effect Text": "解锁 {name lored growth} 即 {title lored growth} LORED"
+    },
+    "grandma": {
+      "_Name": "Grandma",
+      "Name": "奶奶",
+      "_Effect Text": "Haste [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored stone}",
+      "Effect Text": "{name lored stone} 加速 [b]×EffectText[/b]"
+    },
+    "grandpa": {
+      "_Name": "Grandpa",
+      "Name": "爷爷",
+      "_Effect Text": "Output [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored stone}",
+      "Effect Text": "{name lored stone} 输出 [b]×EffectText[/b]"
+    },
+    "unlock_joule": {
+      "_Name": "Joules LORED",
+      "Name": "焦耳 LORED",
+      "_Effect Text": "Unlock {name lored joule},NEWLINEthe {title lored joule} LORED",
+      "Effect Text": "解锁 {name lored joule} 即 {title lored joule} LORED"
+    },
+    "unlock_concrete": {
+      "_Name": "Concrete LORED",
+      "Name": "混凝土 LORED",
+      "_Effect Text": "Unlock {name lored concrete},NEWLINEthe {title lored concrete} LORED",
+      "Effect Text": "解锁 {name lored concrete} 即 {title lored concrete} LORED"
+    },
+    "mixer": {
+      "_Name": "Mixer",
+      "Name": "搅拌机",
+      "_Effect Text": "Haste [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored concrete}",
+      "Effect Text": "{name lored concrete} 加速 [b]×EffectText[/b]"
+    },
+    "rye": {
+      "_Name": "Rye",
+      "Name": "黑麦",
+      "_Effect Text": "Haste [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored iron}",
+      "Effect Text": "{name lored iron} 加速 [b]×EffectText[/b]"
+    },
+    "cadbury": {
+      "_Name": "Cadbury",
+      "Name": "吉百利",
+      "_Effect Text": "Haste [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored copper}",
+      "Effect Text": "{name lored copper} 加速 [b]×EffectText[/b]"
+    },
+    "lost_my_stuff": {
+      "_Name": "I've lost my stuff.",
+      "Name": "我把东西弄丢了。",
+      "_Effect Text": "Output [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored joule}",
+      "Effect Text": "{name lored joule} 输出和输入 [b]×EffectText[/b]"
+    },
+    "brioche": {
+      "_Name": "Brioche",
+      "Name": "奶油面包",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored iron}",
+      "Effect Text": "{name lored iron} 输出和输入 [b]×EffectText[/b]"
+    },
+    "jetpuffed": {
+      "_Name": "Jet-Puffed",
+      "Name": "喷气式",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored copper}",
+      "Effect Text": "{name lored copper} 输出和输入 [b]×EffectText[/b]"
+    },
+    "unlock_oil": {
+      "_Name": "Unlock Oil",
+      "Name": "解锁油",
+      "_Effect Text": "Unlock {name lored oil},NEWLINEthe {title lored oil} LORED",
+      "Effect Text": "解锁 {name lored oil} 即 {title lored oil} LORED"
+    },
+    "unlock_tarball": {
+      "_Name": "Unlock Tarball",
+      "Name": "解锁肉团",
+      "_Effect Text": "Unlock {name lored tarball},NEWLINEthe {title lored tarball} LORED",
+      "Effect Text": "解锁 {name lored tarball} 即 {title lored tarball} LORED"
+    },
+    "unlock_malignancy": {
+      "_Name": "Unlock Malignancy",
+      "Name": "解锁恶性肿瘤",
+      "_Effect Text": "Unlock {name lored malignancy},NEWLINEthe {title lored malignancy} LORED",
+      "Effect Text": "解锁 {name lored malignancy} 即 {title lored malignancy} LORED"
+    },
+    "maxer": {
+      "_Name": "Maxer",
+      "Name": "最大化器",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored concrete}",
+      "Effect Text": "{name lored concrete} 输出和输入 [b]×EffectText[/b]"
+    },
+    "cheeks": {
+      "_Name": "Cheeks",
+      "Name": "脸颊",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored oil}",
+      "Effect Text": "{name lored oil} 输出和输入 [b]×EffectText[/b]"
+    },
+    "inject": {
+      "_Name": "Inject",
+      "Name": "注射",
+      "_Effect Text": "Output [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored tarball}",
+      "Effect Text": "{name lored tarball} 输出 [b]×EffectText[/b]"
+    },
+    "stickytar": {
+      "_Name": "Stickytar",
+      "Name": "黏黏团",
+      "_Effect Text": "Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored malignancy}",
+      "Effect Text": "{name lored malignancy} 输入 [b]×EffectText[/b]"
+    },
+    "red_goopy_boy": {
+      "_Name": "Red Goopy Boy",
+      "Name": "红色胶状体男孩",
+      "_Effect Text": "Output [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored malignancy}",
+      "Effect Text": "{name lored malignancy} 输出 [b]×EffectText[/b]"
+    },
+    "rust_and_smoke": {
+      "_Name": "Rust and Smoke",
+      "Name": "锈与烟",
+      "_Effect Text": "Unlock {name tree 1b}!",
+      "Effect Text": "解锁 {name tree 1b}！"
+    },
+    "pro_consumer": {
+      "_Name": "Pro Consumer Mechanics",
+      "Name": "专业消费者机制",
+      "_Effect Text": "Unlock the {name tree cash_shop}!",
+      "Effect Text": "解锁 {name tree cash_shop}！",
+      "_Description": "Tip: You can view and change Upgrade Tree tabs at the top of the Upgrades Window.",
+      "Description": "提示：你可以在升级窗口的顶部查看和切换升级树标签页。"
+    },
+    "skulls": {
+      "_Name": "Skulls",
+      "Name": "骷髅",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored main1}",
+      "Effect Text": "{name stage main1} LORED 输出和输入 [b]×EffectText[/b]"
+    },
+    "so_close": {
+      "_Name": "we were so close, now you don't even think about me",
+      "Name": "我们曾经如此接近，现在你甚至不再想起我",
+      "_Effect Text": "Automatically purchases {name tree 1a} Upgrades",
+      "Effect Text": "自动购买 {name tree 1a} 升级"
+    },
+    "unlock_juice": {
+      "_Name": "Unlock Juice",
+      "Name": "解锁果汁",
+      "_Effect Text": "Unlocks {name currency juice} and the {name tree 1unique}",
+      "Effect Text": "解锁 {name currency juice} 和 {name tree 1unique}",
+      "_Description": "{name lored growth} gains the ability to brew {name currency juice}. He will [b]alternate[/b] between producing {name currency growth} and {name currency juice}.NEWLINEIf there is sufficient {name currency juice} available, LOREDs will drink, becoming temporarily [color=#6bf521][b]Juiced[/b][/color], the effects of which you can find in the {icon tree 1unique} [b]Details[/b] widget on the right.NEWLINELOREDs will stop producing {name currency juice} once there is enough in the pot for all LOREDs to drink. If you [b]watch[/b] {name currency juice} in the [b]Currency[/b] window (hotkey: C), you can view this target amount.",
+      "Description": "{name lored growth} 获得了酿造 {name currency juice} 的能力。他将[b]交替[/b]生产 {name currency growth} 和 {name currency juice}。NEWLINE如果有足够的 {name currency juice} 可用，LORED 会喝掉它们，暂时变得[color=#6bf521][b]果汁满满[/b][/color]，其效果可以在右侧的 {icon tree 1unique} [b]详情[/b]小部件中找到。NEWLINE一旦锅中有足够的果汁供所有 LORED 饮用，LORED 就会停止生产 {name currency juice}。如果你在[b]货币[/b]窗口（快捷键：C）中[b]关注[/b] {name currency juice}，你可以查看这个目标数量。"
+    },
+    "thrush": {
+      "_Name": "Thrush",
+      "Name": "歌鸫",
+      "_Effect Text": "[b]Juiced[/b] Output and Input [b]+EffectText[/b]",
+      "Effect Text": "[b]果汁满满[/b] 输出和输入 [b]+EffectText[/b]"
+    },
+    "thrum": {
+      "_Name": "Thrum",
+      "Name": "颤音",
+      "_Effect Text": "[b]Juiced[/b] Haste [b]+EffectText[/b]",
+      "Effect Text": "[b]果汁满满[/b] 加速 [b]+EffectText[/b]"
+    },
+    "copious": {
+      "_Name": "Copious",
+      "Name": "丰富",
+      "_Effect Text": "Maximum Juice output [b]+EffectText[/b]",
+      "Effect Text": "最大果汁输出 [b]+EffectText[/b]",
+      "_Description": "Tip: Unlike other resources, {name currency juice} production is [b]not[/b] affected by a LORED's Output.",
+      "Description": "提示：与其他资源不同，{name currency juice} 的生产[b]不[/b]受 LORED 输出的影响。"
+    },
+    "expanded_stomach": {
+      "_Name": "Expanded Stomach",
+      "Name": "大胃王",
+      "_Effect Text": "Max Juice [b]+EffectText[/b]",
+      "Effect Text": "最大果汁 [b]+EffectText[/b]"
+    },
+    "second_stomach": {
+      "_Name": "Second Stomach",
+      "Name": "副胃",
+      "_Effect Text": "Max Juice [b]+EffectText[/b]",
+      "Effect Text": "最大果汁 [b]+EffectText[/b]"
+    },
+    "backed_up": {
+      "_Name": "Backed Up",
+      "Name": "备份",
+      "_Effect Text": "Juice Output [b]xEffectText[/b]",
+      "Effect Text": "果汁输出 [b]×EffectText[/b]"
+    },
+    "big_gulp": {
+      "_Name": "Big Gulp",
+      "Name": "大口喝",
+      "_Effect Text": "Juice fill amount [b]+EffectText[/b]",
+      "Effect Text": "果汁填充量 [b]+EffectText[/b]",
+      "_Description": "Tip: Fill amount does [b]not[/b] affect how much {name currency juice} is spent, only how much is added into a LORED's tummy.",
+      "Description": "提示：填充量[b]不[/b]影响花费多少 {name currency juice}，只影响添加到 LORED 肚子里的量。"
+    },
+    "distracted_gulp": {
+      "_Name": "Distracted Gulp",
+      "Name": "分心喝",
+      "_Effect Text": "Maximum Juice fill amount [b]+EffectText[/b]",
+      "Effect Text": "最大果汁填充量 [b]+EffectText[/b]"
+    },
+    "piracy": {
+      "_Name": "Piracy",
+      "Name": "盗版",
+      "_Effect Text": "Minimum [b]Juiced[/b] Input [b]xEffectText[/b]",
+      "Effect Text": "最低 [b]果汁满满[/b] 输入 [b]×EffectText[/b]"
+    },
+    "jam": {
+      "_Name": "Jam",
+      "Name": "酱",
+      "_Effect Text": "Maximum [b]Juiced[/b] Output [b]+EffectText[/b]",
+      "Effect Text": "最大 [b]果汁满满[/b] 输出 [b]+EffectText[/b]"
+    },
+    "coursing": {
+      "_Name": "Coursin'",
+      "Name": "追踪赛",
+      "_Effect Text": "Juice in the tummy multiplies Output and Input",
+      "Effect Text": "输出和输入乘以肚子里的果汁"
+    },
+    "jonesin": {
+      "_Name": "Jonesin'",
+      "Name": "瘾君子",
+      "_Effect Text": "Haste [b]x2[/b] based on Juice deficit",
+      "Effect Text": "根据果汁赤字加速 [b]×2[/b]",
+      "_Description": "This value scales linearly up to 2.0 based on the amount of Juice missing from the LORED's tummy.",
+      "Description": "该值根据 LORED 肚子里缺少的果汁量线性缩放，最高可达 2.0。"
+    },
+    "roided": {
+      "_Name": "Roided",
+      "Name": "类固醇",
+      "_Effect Text": "[b]Juiced[/b] Output and Input [b]+EffectText[/b]",
+      "Effect Text": "[b]果汁满满[/b] 输出和输入 [b]+EffectText[/b]"
+    },
+    "blur": {
+      "_Name": "Blur",
+      "Name": "模糊",
+      "_Effect Text": "[b]Juiced[/b] Haste [b]+EffectText[/b]",
+      "Effect Text": "[b]果汁满满[/b] 加速 [b]+EffectText[/b]"
+    },
+    "contingency": {
+      "_Name": "Contingency",
+      "Name": "应急措施",
+      "_Effect Text": "Crits do not consume Juice from the tummy",
+      "Effect Text": "暴击不会消耗肚子里的果汁"
+    },
+    "rage_juice": {
+      "_Name": "Infected With What?",
+      "Name": "感染了什么？",
+      "_Effect Text": "Unlocks {name currency rage_juice}",
+      "Effect Text": "解锁 {name currency rage_juice}",
+      "_Description": "{name lored growth} gains the ability to brew {name currency rage_juice}. He will not do so if the current amount of {name currency juice} is below the target amount.NEWLINEIf there is sufficient {name currency rage_juice} available, LOREDs will drink, becoming [color=#ff392a][b]Enraged[/b][/color] for 6 seconds, the effects of which may be viewed in the {icon tree 1unique} [b]Details[/b] widget on the right.",
+      "Description": "{name lored growth} 获得了酿造 {name currency rage_juice} 的能力。如果当前的 {name currency juice} 数量低于目标数量，他将不会这样做。NEWLINE如果有足够的 {name currency rage_juice} 可用，LORED 会喝掉它们，变得[color=#ff392a][b]怒气勃勃[/b][/color] 6 秒，其效果可以在右侧的 {icon tree 1unique} [b]详情[/b]小部件中查看。"
+    },
+    "grr_im_mad": {
+      "_Name": "grr im freakin mad",
+      "Name": "啊呜我忒么的生气了",
+      "_Effect Text": "Maximum [b]Enrage[/b] Duration [b]+EffectText[/b]",
+      "Effect Text": "最大 [b]狂怒[/b] 持续时间 [b]+EffectText[/b]"
+    },
+    "molasses": {
+      "_Name": "slower than molasses drips off a spoon :)",
+      "Name": "比糖浆从勺子上滴下还慢 :)",
+      "_Effect Text": "Minimum [b]Juiced[/b] Haste [b]xEffectText[/b]",
+      "Effect Text": "最低 [b]果汁满满[/b] 加速 [b]×EffectText[/b]"
+    },
+    "pumpin": {
+      "_Name": "Pumpin'",
+      "Name": "泵送",
+      "_Effect Text": "[b]Juiced[/b] Haste [b]xEffectText[/b]",
+      "Effect Text": "[b]果汁满满[/b] 加速 [b]×EffectText[/b]"
+    },
+    "fast_as_fuck": {
+      "_Name": "Fast as fuck, boi!",
+      "Name": "快抽了，盆友！",
+      "_Effect Text": "Maximum [b]Juiced[/b] Haste [b]+EffectText[/b]",
+      "Effect Text": "最大 [b]果汁满满[/b] 加速 [b]+EffectText[/b]"
+    },
+    "eternal_wrath": {
+      "_Name": "Eternal Wrath",
+      "Name": "永恒的愤怒",
+      "_Effect Text": "[b]Enrage[/b] Duration [b]xEffectText[/b]",
+      "Effect Text": "[b]怒气勃勃[/b] 持续时间 [b]×EffectText[/b]"
+    },
+    "hysterical_strength": {
+      "_Name": "Hysterical Strength",
+      "Name": "歇斯底里的力量",
+      "_Effect Text": "[b]Enraged[/b] Output [b]xEffectText[/b]",
+      "Effect Text": "[b]怒气勃勃[/b] 输出 [b]×EffectText[/b]"
+    },
+    "red_rush": {
+      "_Name": "Red Rush",
+      "Name": "狂飙",
+      "_Effect Text": "[b]Enraged[/b] Haste [b]xEffectText[/b]",
+      "Effect Text": "[b]怒气勃勃[/b] 加速 [b]×EffectText[/b]"
+    },
+    "vats": {
+      "_Name": "Vats",
+      "Name": "大缸",
+      "_Effect Text": "Juice fill amount [b]xEffectText[/b]",
+      "Effect Text": "果汁填充量 [b]×EffectText[/b]"
+    },
+    "tree_1unique_autobuy": {
+      "_Name": "If you want something done right, you [s]do it yourself[/s]let the autobuyer do it!",
+      "Name": "如果你想把事情做好，你就[b]让自动购买器来做[/b]！",
+      "_Effect Text": "Automatically purchases {name tree 1unique} Upgrades",
+      "Effect Text": "自动购买 {name tree 1unique} 升级"
+    },
+    "lored_autobuyer": {
+      "_Name": "What in the idle game is this?!",
+      "Name": "放置游戏里这是什么？！",
+      "_Effect Text": "Unlock LORED Autobuyers",
+      "Effect Text": "解锁 LORED 自动购买器"
+    },
+    "soccer_dude": {
+      "_Name": "Soccer Dude",
+      "Name": "足球小子",
+      "_Effect Text": "Haste [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored main1}",
+      "Effect Text": "{name stage main1} LORED 加速 [b]×EffectText[/b]"
+    },
+    "coal_milkshake": {
+      "_Name": "I DRINK YOUR MILKSHAKE!",
+      "Name": "我喝你的奶昔！",
+      "_Effect Text": "Output [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored coal}",
+      "Effect Text": "{name lored coal} 输出 [b]×EffectText[/b]",
+      "_Description": "This effect is increased every time any LORED uses {name currency coal}. The rate of increase is based on {name lored coal}'s level.",
+      "Description": "每当有 LORED 使用 {name currency coal} 时，此效果都会增加。增加的速率取决于 {name lored coal} 的等级。"
+    },
+    "aw": {
+      "_Name": "Awh! <3",
+      "Name": "啊！<3",
+      "_Effect Text": "Free level 1NEWLINE[i]for [/i]{name lored coal}",
+      "Effect Text": "{name lored coal} 免费获得 1 级"
+    },
+    "lumpy": {
+      "_Name": "Lumpy",
+      "Name": "疙疙瘩瘩",
+      "_Effect Text": "Unlock the {name tree 1unique}!",
+      "Effect Text": "解锁 {name tree 1unique}！"
+    },
+    "enthusiasm": {
+      "_Name": "Enthusiasm",
+      "Name": "热情",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored main1}",
+      "Effect Text": "{name stage main1} LORED 输出和输入 [b]×EffectText[/b]"
+    },
+    "con_frickin_crete": {
+      "_Name": "CON-FRICKIN-CRETE",
+      "Name": "混-忒么-凝土",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored concrete}",
+      "Effect Text": "{name lored concrete} 输出和输入 [b]×EffectText[/b]"
+    },
+    "stay_quenched": {
+      "_Name": "Stay Quenched",
+      "Name": "保持湿润",
+      "_Effect Text": "Haste [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored joule}",
+      "Effect Text": "{name lored joule} 加速 [b]×EffectText[/b]"
+    },
+    "huggies": {
+      "_Name": "Huggies",
+      "Name": "好奇®",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored oil}",
+      "Effect Text": "{name lored oil} 输出和输入 [b]×EffectText[/b]"
+    },
+    "oh_baby_a_triple": {
+      "_Name": "OH, BABY, A TRIPLE",
+      "Name": "哦，宝贝，三连击",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored tarball}",
+      "Effect Text": "{name lored tarball} 输出和输入 [b]×EffectText[/b]"
+    },
+    "pepper": {
+      "_Name": "Pepper",
+      "Name": "胡椒",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored iron_ore}",
+      "Effect Text": "{name lored iron_ore} 输出和输入 [b]×EffectText[/b]"
+    },
+    "clay": {
+      "_Name": "Clay",
+      "Name": "粘土",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored copper_ore}",
+      "Effect Text": "{name lored copper_ore} 输出和输入 [b]×EffectText[/b]"
+    },
+    "sourdough": {
+      "_Name": "Sourdough",
+      "Name": "欧包",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored iron}",
+      "Effect Text": "{name lored iron} 输出和输入 [b]×EffectText[/b]"
+    },
+    "nutella": {
+      "_Name": "Nutella",
+      "Name": "能多益®",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored copper}",
+      "Effect Text": "{name lored copper} 输出和输入 [b]×EffectText[/b]"
+    },
+    "purpose": {
+      "_Name": "Purpose",
+      "Name": "目标",
+      "_Effect Text": "Minimum [b]Juiced[/b] Haste [b]xEffectText[/b]",
+      "Effect Text": "最低 [b]果汁满满[/b] 加速 [b]×EffectText[/b]",
+      "_Description": "[center][i][b]TLDR[/b]: [b]SLOWER[/b], but [b]STRONGER[/b]![/i][/center]NEWLINEOutput will be multiplied by 2 times the number of 0.1s less than the maximum Haste rolled. For example, if the Juiced Haste range is 0.15 - 1.5 and the LORED rolls 0.15, his Output will be multiplied by [b]26[/b], because there are 13 0.1s between 0.15 and 1.5.",
+      "Description": "[center][i][b]简而言之[/b]：更[b]慢[/b]，但更[b]强[/b]！[/i][/center]NEWLINE输出将乘以比最大加速值少 0.1 的数量的 2 倍。例如，如果果汁满满的加速范围是 0.15 - 1.5，而 LORED 掷出了 0.15，那么他的输出将乘以 [b]26[/b]，因为在 0.15 和 1.5 之间有 13 个 0.1。"
+    },
+    "its_growin_on_me": {
+      "_Name": "[shake rate=20 level=10]IT'S GROWIN ON ME",
+      "Name": "[shake rate=20 level=10]它在我身上生长[/shake]",
+      "_Effect Text": "Maximum Output [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored iron} [i]and[/i] {name lored copper}",
+      "Effect Text": "{name lored iron} [i]和[/i] {name lored copper} 最大输出 [b]×EffectText[/b]",
+      "_Description": "This effect is equal to {name lored growth}'s level.",
+      "Description": "此效果等于 {name lored growth} 的等级。"
+    },
+    "potential_for_good": {
+      "_Name": "Potential for Good",
+      "Name": "向善的潜力",
+      "_Effect Text": "Max Juice [b]+EffectText[/b]",
+      "Effect Text": "最大果汁 [b]+EffectText[/b]"
+    },
+    "capacity_for_evil": {
+      "_Name": "Capacity for Evil",
+      "Name": "作恶的能力",
+      "_Effect Text": "Max Juice multiplies Output and Input",
+      "Effect Text": "输出和输入乘以最大果汁"
+    },
+    "commune": {
+      "_Name": "Commune",
+      "Name": "公社",
+      "_Effect Text": "Max Juice [b]+EffectText[/b]",
+      "Effect Text": "最大果汁 [b]+EffectText[/b]",
+      "_Description": "There is a small chance each time a LORED finishes a job [i]while Juiced[/i] to increase this effect.",
+      "Description": "每当 LORED 在[i]果汁满满[/i]时完成一项工作时，都有很小的几率增加此效果。"
+    },
+    "tanks": {
+      "_Name": "Tanks",
+      "Name": "[s]坦克[/s]水箱",
+      "_Effect Text": "Max Juice [b]xEffectText[/b]",
+      "Effect Text": "最大果汁 [b]×EffectText[/b]"
+    },
+    "rise_and_juice": {
+      "_Name": "Rise and Juice",
+      "Name": "崛起与果汁",
+      "_Effect Text": "Any Stage 1 LORED can brew {name currency juice}",
+      "Effect Text": "任何 {name stage main1} LORED 都可以酿造 {name currency juice}"
+    },
+    "upgrade_name": {
+      "_Name": "upgrade_name",
+      "Name": "upgrade_name",
+      "_Effect Text": "Output multiplier [i]increase[/i] 2.0 {icon arrow_right_line} 2.1NEWLINE[i]for [/i]{name stage main1} LOREDs",
+      "Effect Text": "{name stage main1} LORED 输出乘数 [i]增加[/i] 2.0 {icon arrow_right_line} 2.1"
+    },
+    "the_swamp": {
+      "_Name": "The Swamp",
+      "Name": "沼泽",
+      "_Effect Text": "Unlock {name tree 2a}!",
+      "Effect Text": "解锁 {name tree 2a}！"
+    },
+    "AUTOMATON": {
+      "_Name": "automaton",
+      "Name": "自动机",
+      "_Effect Text": "Automatically purchases {name tree 1b} Upgrades",
+      "Effect Text": "自动购买 {name tree 1b} 升级"
+    },
+    "a_new_leaf": {
+      "_Name": "A New Leaf",
+      "Name": "新叶",
+      "_Effect Text": "Unlock {name stage main2}!",
+      "Effect Text": "解锁 {name stage main2}！"
+    },
+    "unlock_2b": {
+      "_Name": "50/50",
+      "Name": "50/50",
+      "_Effect Text": "Unlock {name tree 2b}!",
+      "Effect Text": "解锁 {name tree 2b}！"
+    },
+    "unlock_2unique": {
+      "_Name": "A Chance Encounter",
+      "Name": "偶遇",
+      "_Effect Text": "Unlock {name tree 2unique}!",
+      "Effect Text": "解锁 {name tree 2unique}！"
+    },
+    "unlock_thingy": {
+      "_Name": "Play With Your Thingies",
+      "Name": "和你的那些玩意儿玩去吧",
+      "_Effect Text": "Unlock the {name tree thingy}!",
+      "Effect Text": "解锁 {name tree thingy}！"
+    },
+    "wet": {
+      "_Name": "Wet",
+      "Name": "湿润",
+      "_Effect Text": "Unlock {name lored water},NEWLINEthe {title lored water} LORED",
+      "Effect Text": "解锁 {name lored water} 即 {title lored water} LORED"
+    },
+    "hard_as_bark": {
+      "_Name": "Hard as Bark",
+      "Name": "坚如树皮",
+      "_Effect Text": "Unlock {name lored tree},NEWLINEthe {title lored tree} LORED",
+      "Effect Text": "解锁 {name lored tree} 即 {title lored tree} LORED"
+    },
+    "busy_bee": {
+      "_Name": "Busy Bee",
+      "Name": "大忙人",
+      "_Effect Text": "Unlock {name lored seed},NEWLINEthe {title lored seed} LORED",
+      "Effect Text": "解锁 {name lored seed} 即 {title lored seed} LORED"
+    },
+    "tomato_soup": {
+      "_Name": "Tomato Soup",
+      "Name": "番茄汤",
+      "_Effect Text": "Unlock {name lored liquid_iron},NEWLINEthe {title lored liquid_iron} LORED",
+      "Effect Text": "解锁 {name lored liquid_iron} 即 {title lored liquid_iron} LORED"
+    },
+    "unlock_axe": {
+      "_Name": "It's Axin Time",
+      "Name": "砍树时间到",
+      "_Effect Text": "Unlock {name lored axe},NEWLINEthe {title lored axe} LORED",
+      "Effect Text": "解锁 {name lored axe} 即 {title lored axe} LORED"
+    },
+    "unlock_steel": {
+      "_Name": "Unlock Steel",
+      "Name": "解锁钢铁",
+      "_Effect Text": "Unlock {name lored steel},NEWLINEthe {title lored steel} LORED",
+      "Effect Text": "解锁 {name lored steel} 即 {title lored steel} LORED"
+    },
+    "unlock_wood": {
+      "_Name": "Me Burn U Fire",
+      "Name": "我着了，你点的",
+      "_Effect Text": "Unlock {name lored wood},NEWLINEthe {title lored wood} LORED",
+      "Effect Text": "解锁 {name lored wood} 即 {title lored wood} LORED"
+    },
+    "unlock_hardwood": {
+      "_Name": "Lil Ol Me?",
+      "Name": "小我？",
+      "_Effect Text": "Unlock {name lored hardwood},NEWLINEthe {title lored hardwood} LORED",
+      "Effect Text": "解锁 {name lored hardwood} 即 {title lored hardwood} LORED"
+    },
+    "unlock_glass": {
+      "_Name": "An Example",
+      "Name": "一个例子",
+      "_Effect Text": "Unlock {name lored glass},NEWLINEthe {title lored glass} LORED",
+      "Effect Text": "解锁 {name lored glass} 即 {title lored glass} LORED"
+    },
+    "unlock_sand": {
+      "_Name": "Hello there.",
+      "Name": "你好。",
+      "_Effect Text": "Unlock {name lored sand},NEWLINEthe {title lored sand} LORED",
+      "Effect Text": "解锁 {name lored sand} 即 {title lored sand} LORED"
+    },
+    "unlock_humus": {
+      "_Name": "What the shit???",
+      "Name": "这是什么鬼？？？",
+      "_Effect Text": "Unlock {name lored humus},NEWLINEthe {title lored humus} LORED",
+      "Effect Text": "解锁 {name lored humus} 即 {title lored humus} LORED"
+    },
+    "unlock_draw_plate": {
+      "_Name": "Doodly",
+      "Name": "涂鸦",
+      "_Effect Text": "Unlock {name lored draw_plate},NEWLINEthe {title lored draw_plate} LORED",
+      "Effect Text": "解锁 {name lored draw_plate} 即 {title lored draw_plate} LORED"
+    },
+    "unlock_wire": {
+      "_Name": "Can you take me to Dollar Tree?",
+      "Name": "你能带我去一元店吗？",
+      "_Effect Text": "Unlock {name lored wire},NEWLINEthe {title lored wire} LORED",
+      "Effect Text": "解锁 {name lored wire} 即 {title lored wire} LORED"
+    },
+    "unlock_soil": {
+      "_Name": "i been a nasty girl",
+      "Name": "我一直是个坏女孩",
+      "_Effect Text": "Unlock {name lored soil},NEWLINEthe {title lored soil} LORED",
+      "Effect Text": "解锁 {name lored soil} 即 {title lored soil} LORED"
+    },
+    "unlock_galena": {
+      "_Name": "Lena's Gay???",
+      "Name": "莉娜是同性恋？？？",
+      "_Effect Text": "Unlock {name lored galena},NEWLINEthe {title lored galena} LORED",
+      "Effect Text": "解锁 {name lored galena} 即 {title lored galena} LORED"
+    },
+    "unlock_lead": {
+      "_Name": "Led Where??",
+      "Name": "铅往哪儿？？",
+      "_Effect Text": "Unlock {name lored lead},NEWLINEthe {title lored lead} LORED",
+      "Effect Text": "解锁 {name lored lead} 即 {title lored lead} LORED"
+    },
+    "steel_yourself": {
+      "_Name": "Steel Yourself",
+      "Name": "铁定你自己",
+      "_Effect Text": "Output [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored steel}",
+      "Effect Text": "{name lored steel} 输出 [b]×EffectText[/b]"
+    },
+    "liquid_iron_yourself": {
+      "_Name": "Liquid Iron Yourself",
+      "Name": "液态铁你自己",
+      "_Effect Text": "Output [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored liquid_iron}",
+      "Effect Text": "{name lored liquid_iron} 输出 [b]×EffectText[/b]"
+    },
+    "unlock_tumor": {
+      "_Name": "Cancer's Cool",
+      "Name": "癌症很酷",
+      "_Effect Text": "Unlock {name lored tumor},NEWLINEthe {title lored tumor} LORED",
+      "Effect Text": "解锁 {name lored tumor} 即 {title lored tumor} LORED"
+    },
+    "unlock_paper": {
+      "_Name": "What I do is, if I really need to get it out, I write it down",
+      "Name": "我通常是，如果我真的需要把它写出来，我就写下来",
+      "_Effect Text": "Unlock {name lored paper},NEWLINEthe {title lored paper} LORED",
+      "Effect Text": "解锁 {name lored paper} 即 {title lored paper} LORED"
+    },
+    "unlock_cigarette": {
+      "_Name": "Reds",
+      "Name": "红色",
+      "_Effect Text": "Unlock {name lored cigarette},NEWLINEthe {title lored cigarette} LORED",
+      "Effect Text": "解锁 {name lored cigarette} 即 {title lored cigarette} LORED"
+    },
+    "unlock_wood_pulp": {
+      "_Name": "Deku",
+      "Name": "木偶",
+      "_Effect Text": "Unlock {name lored wood_pulp},NEWLINEthe {title lored wood_pulp} LORED",
+      "Effect Text": "解锁 {name lored wood_pulp} 即 {title lored wood_pulp} LORED"
+    },
+    "unlock_tobacco": {
+      "_Name": "Poofy Wizard Boy",
+      "Name": "蓬松的巫师男孩",
+      "_Effect Text": "Unlock {name lored tobacco},NEWLINEthe {title lored tobacco} LORED",
+      "Effect Text": "解锁 {name lored tobacco} 即 {title lored tobacco} LORED"
+    },
+    "unlock_petroleum": {
+      "_Name": "Roleum Prime",
+      "Name": "油·原",
+      "_Effect Text": "Unlock {name lored petroleum},NEWLINEthe {title lored petroleum} LORED",
+      "Effect Text": "解锁 {name lored petroleum} 即 {title lored petroleum} LORED"
+    },
+    "unlock_plastic": {
+      "_Name": "Oon",
+      "Name": "气求",
+      "_Effect Text": "Unlock {name lored plastic},NEWLINEthe {title lored plastic} LORED",
+      "Effect Text": "解锁 {name lored plastic} 即 {title lored plastic} LORED"
+    },
+    "unlock_carcinogen": {
+      "_Name": "Spooky Scary",
+      "Name": "阴森可怖",
+      "_Effect Text": "Unlock {name lored carcinogen},NEWLINEthe {title lored carcinogen} LORED",
+      "Effect Text": "解锁 {name lored carcinogen} 即 {title lored carcinogen} LORED"
+    },
+    "galena_output1": {
+      "_Name": "Jack",
+      "Name": "杰克",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored galena}",
+      "Effect Text": "{name lored galena} 输出和输入 [b]×EffectText[/b]"
+    },
+    "somethin_stinks": {
+      "_Name": "Somethin Stinks",
+      "Name": "馊了",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored humus}",
+      "Effect Text": "{name lored humus} 输出和输入 [b]×EffectText[/b]"
+    },
+    "millery": {
+      "_Name": "Millery",
+      "Name": "磨坊",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored hardwood}",
+      "Effect Text": "{name lored hardwood} 输出和输入 [b]×EffectText[/b]"
+    },
+    "quamps": {
+      "_Name": "Quamps",
+      "Name": "傻本儿本儿",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored steel}",
+      "Effect Text": "{name lored steel} 输出和输入 [b]×EffectText[/b]"
+    },
+    "plasma_bombardment": {
+      "_Name": "Plasma Bombardment",
+      "Name": "等离子轰炸",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored glass}",
+      "Effect Text": "{name lored glass} 输出和输入 [b]×EffectText[/b]"
+    },
+    "doilies": {
+      "_Name": "Doilies...",
+      "Name": "餐垫…",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored wire}",
+      "Effect Text": "{name lored wire} 输出和输入 [b]×EffectText[/b]"
+    },
+    "HUMUS": {
+      "_Name": "Artax",
+      "Name": "阿塔克斯",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored humus}",
+      "Effect Text": "{name lored humus} 输出和输入 [b]×EffectText[/b]"
+    },
+    "SOIL": {
+      "_Name": "Joe",
+      "Name": "乔",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored soil}",
+      "Effect Text": "{name lored soil} 输出和输入 [b]×EffectText[/b]"
+    },
+    "TREE": {
+      "_Name": "Fangorn",
+      "Name": "范贡",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored tree}",
+      "Effect Text": "{name lored tree} 输出和输入 [b]×EffectText[/b]"
+    },
+    "WOOD": {
+      "_Name": "Oliver",
+      "Name": "奥利弗",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored wood}",
+      "Effect Text": "{name lored wood} 输出和输入 [b]×EffectText[/b]"
+    },
+    "HARDWOOD": {
+      "_Name": "Elijah",
+      "Name": "伊利亚",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored hardwood}",
+      "Effect Text": "{name lored hardwood} 输出和输入 [b]×EffectText[/b]"
+    },
+    "STEEL": {
+      "_Name": "Logan",
+      "Name": "罗根",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored steel}",
+      "Effect Text": "{name lored steel} 输出和输入 [b]×EffectText[/b]"
+    },
+    "SAND": {
+      "_Name": "Flint",
+      "Name": "燧石",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored sand}",
+      "Effect Text": "{name lored sand} 输出和输入 [b]×EffectText[/b]"
+    },
+    "WIRE": {
+      "_Name": "Stringer",
+      "Name": "特约记者",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored wire}",
+      "Effect Text": "{name lored wire} 输出和输入 [b]×EffectText[/b]"
+    },
+    "GALENA": {
+      "_Name": "Seven",
+      "Name": "7",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored galena}",
+      "Effect Text": "{name lored galena} 输出和输入 [b]×EffectText[/b]"
+    },
+    "PETROLEUM": {
+      "_Name": "Plainview",
+      "Name": "普莱恩维尤",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored petroleum}",
+      "Effect Text": "{name lored petroleum} 输出和输入 [b]×EffectText[/b]"
+    },
+    "WOOD_PULP": {
+      "_Name": "Marsellus",
+      "Name": "马塞勒斯",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored wood_pulp}",
+      "Effect Text": "{name lored wood_pulp} 输出和输入 [b]×EffectText[/b]"
+    },
+    "PLASTIC": {
+      "_Name": "Regina",
+      "Name": "里贾纳",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored plastic}",
+      "Effect Text": "{name lored plastic} 输出和输入 [b]×EffectText[/b]"
+    },
+    "CARCINOGEN": {
+      "_Name": "Brockovich",
+      "Name": "布罗克维奇",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored carcinogen}",
+      "Effect Text": "{name lored carcinogen} 输出和输入 [b]×EffectText[/b]"
+    },
+    "TUMOR": {
+      "_Name": "Adam",
+      "Name": "亚当",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored tumor}",
+      "Effect Text": "{name lored tumor} 输出和输入 [b]×EffectText[/b]"
+    },
+    "TOBACCO": {
+      "_Name": "Bilbo",
+      "Name": "比尔博",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored tobacco}",
+      "Effect Text": "{name lored tobacco} 输出和输入 [b]×EffectText[/b]"
+    },
+    "CIGARETTE": {
+      "_Name": "Durden",
+      "Name": "杜登",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored cigarette}",
+      "Effect Text": "{name lored cigarette} 输出和输入 [b]×EffectText[/b]"
+    },
+    "PAPER": {
+      "_Name": "Scott",
+      "Name": "斯科特",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored paper}",
+      "Effect Text": "{name lored paper} 输出和输入 [b]×EffectText[/b]"
+    },
+    "LEAD": {
+      "_Name": "Indy",
+      "Name": "印地",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored lead}",
+      "Effect Text": "{name lored lead} 输出和输入 [b]×EffectText[/b]"
+    },
+    "DRAW_PLATE": {
+      "_Name": "Naoto",
+      "Name": "直人",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored draw_plate}",
+      "Effect Text": "{name lored draw_plate} 输出和输入 [b]×EffectText[/b]"
+    },
+    "GLASS": {
+      "_Name": "Price",
+      "Name": "价格",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored glass}",
+      "Effect Text": "{name lored glass} 输出和输入 [b]×EffectText[/b]"
+    },
+    "LIQUID_IRON": {
+      "_Name": "T-1000",
+      "Name": "T-1000",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored liquid_iron}",
+      "Effect Text": "{name lored liquid_iron} 输出和输入 [b]×EffectText[/b]"
+    },
+    "AXE": {
+      "_Name": "Johnny",
+      "Name": "强尼",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored axe}",
+      "Effect Text": "{name lored axe} 输出和输入 [b]×EffectText[/b]"
+    },
+    "SEED": {
+      "_Name": "Sunflower",
+      "Name": "向日葵",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored seed}",
+      "Effect Text": "{name lored seed} 输出和输入 [b]×EffectText[/b]"
+    },
+    "WATER": {
+      "_Name": "Katara",
+      "Name": "卡塔拉",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored water}",
+      "Effect Text": "{name lored water} 输出和输入 [b]×EffectText[/b]"
+    },
+    "TREE_2A_AUTOBUYER": {
+      "_Name": "ain't no way im clicking all these every prestige",
+      "Name": "才不会每次重置都点这些呢",
+      "_Effect Text": "Automatically purchases {name tree 2a} Upgrades",
+      "Effect Text": "自动购买 {name tree 2a} 升级"
+    },
+    "residue": {
+      "_Name": "Residue",
+      "Name": "残渣",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored main2}",
+      "Effect Text": "{name stage main2} LORED 输出和输入 [b]×EffectText[/b]"
+    },
+    "unlock_coin": {
+      "_Name": "Serendipity",
+      "Name": "飞来横财",
+      "_Effect Text": "Stage 2 crits produce 0 to 1 {name currency coin}",
+      "Effect Text": "{name stage main2} LORED 暴击产生 0 到 1 个 {name currency coin}"
+    },
+    "lottery": {
+      "_Name": "Lottery",
+      "Name": "彩票",
+      "_Effect Text": "Crit Chance [b]+EffectText%[/b]NEWLINE[i]for [/i]{name lored main2}",
+      "Effect Text": "{name stage main2} LORED 暴击几率 [b]+EffectText%[/b]"
+    },
+    "fatetitious": {
+      "_Name": "Fatetitious",
+      "Name": "命中注定",
+      "_Effect Text": "Crit Chance [b]+EffectText%[/b]NEWLINE[i]for [/i]{name lored main2}",
+      "Effect Text": "{name stage main2} LORED 暴击几率 [b]+EffectText%[/b]"
+    },
+    "steel_mill": {
+      "_Name": "Steel Mill",
+      "Name": "炼钢厂",
+      "_Effect Text": "Crit Chance [b]+EffectText%[/b]NEWLINE[i]for [/i]{name lored steel}",
+      "Effect Text": "{name lored steel} 暴击几率 [b]+EffectText%[/b]"
+    },
+    "natural_selection": {
+      "_Name": "Natural Selection",
+      "Name": "自然选择",
+      "_Effect Text": "Crit Chance [b]+EffectText%[/b]NEWLINE[i]for [/i]{name lored tree}",
+      "Effect Text": "{name lored tree} 暴击几率 [b]+EffectText%[/b]"
+    },
+    "get_lucky_twice": {
+      "_Name": "Get Lucky Twice",
+      "Name": "双喜临门",
+      "_Effect Text": "Maximum Crit Chance [b]+EffectText%[/b]NEWLINE[i]for [/i]{name lored main2}",
+      "Effect Text": "{name stage main2} LORED 最大暴击几率 [b]+EffectText%[/b]",
+      "_Description": "Tip: At the start of a LORED's job, they will roll for the crit chance they will have for all crit rolls for that job.",
+      "Description": "提示：在 LORED 工作开始时，他们将掷骰决定该工作所有暴击掷骰的暴击几率。"
+    },
+    "snap": {
+      "_Name": "Snap",
+      "Name": "啪嗒",
+      "_Effect Text": "Hand Size [b]+EffectText",
+      "Effect Text": "手牌上限 [b]+EffectText[/b]",
+      "_Description": "Whenever a LORED scores a crit, they will draw cards and earn {plural_name currency chip} based on the score of their hand.",
+      "Description": "每当 LORED 得到暴击时，他们将根据手牌的分数抽牌并赚取 {name currency chip}。"
+    },
+    "yay_gambling": {
+      "_Name": "Yay, gambling!",
+      "Name": "耶，赌博！",
+      "_Effect Text": "Crit Chance [b]+EffectText%[/b]NEWLINE[i]for [/i]{name lored main2}",
+      "Effect Text": "{name stage main2} LORED 暴击几率 [b]+EffectText%[/b]"
+    },
+    "flutter": {
+      "_Name": "Flutter",
+      "Name": "扑动",
+      "_Effect Text": "Hand Size [b]+EffectText",
+      "Effect Text": "手牌上限 [b]+EffectText[/b]"
+    },
+    "JIGGITIES": {
+      "_Name": "Jiggities",
+      "Name": "绝绝子",
+      "_Effect Text": "Multiply {name lored hardwood}'s Output by [b]1.1[/b]NEWLINEif the first two cards of a hand are [b]Jacks[/b]",
+      "Effect Text": "如果手牌的前两张牌是 [b]J[/b]，则将 {name lored hardwood} 的输出乘以 [b]1.1[/b]"
+    },
+    "THE_ANSWER": {
+      "_Name": "The Answer",
+      "Name": "答案",
+      "_Effect Text": "If the first two cards of a hand are [b]4[/b] and [b]2[/b],NEWLINEall LOREDs gain [b]+1[/b] hand size for 42 seconds",
+      "Effect Text": "如果手牌的前两张牌是 [b]4[/b] 和 [b]2[/b]，则所有 LORED 的手牌上限 [b]+1[/b]，持续 42 秒"
+    },
+    "ALL_BARK": {
+      "_Name": "All Bark",
+      "Name": "全是树皮",
+      "_Effect Text": "Multiply {name lored tree}'s Output by [b]1.025[/b]NEWLINEif the first two cards of a hand are [b]King[/b] and [b]9[/b]",
+      "Effect Text": "如果手牌的前两张牌是 [b]K[/b] 和 [b]9[/b]，则将 {name lored tree} 的输出乘以 [b]1.025[/b]"
+    },
+    "digit": {
+      "_Name": "Digit",
+      "Name": "数码",
+      "_Effect Text": "Gain Crit Chance equal to theNEWLINE[i]first digit[/i] of the latest Chip gain",
+      "Effect Text": "获得等于最新 {name currency chip} 收益的NEWLINE[i]首位数码[/i] 的暴击几率"
+    },
+    "roi": {
+      "_Name": "R.O.I.",
+      "Name": "投资回报率",
+      "_Effect Text": "Crit Multiplier [i]multiplier[/i]NEWLINE(log(10 + latest Chip gain))",
+      "Effect Text": "暴击倍率 [i]乘数[/i]NEWLINE(log(10 + 最新 {name currency chip} 收益))"
+    },
+    "BEST_HANDS": {
+      "_Name": "Best Hands",
+      "Name": "最佳手牌",
+      "_Effect Text": "Unlock the [b]Best Hands[/b] widget",
+      "Effect Text": "解锁 [b]最佳手牌[/b] 小部件",
+      "_Description": "The top 5 of your 20 best hands will be featured in this widget. Their {name currency chip} earnings will be totaled at the top. Rarer hands will persist in this widget for longer.",
+      "Description": "你最好的 20 手牌中的前 5 手将显示在此小部件中。它们的 {name currency chip} 收益将总计在顶部。稀有手牌将在此小部件中持续更长时间。"
+    },
+    "BEST_HANDS_MULT": {
+      "_Name": "Recursive",
+      "Name": "递归",
+      "_Effect Text": "{name currency chip} multiplier based onNEWLINEthe sum from your [b]Best Hands[/b]",
+      "Effect Text": "{name currency chip} 乘数基于你 [b]最佳手牌[/b] 总和"
+    },
+    "do_it_again": {
+      "_Name": "ill f*ckin do it again",
+      "Name": "我他*的再来一次",
+      "_Effect Text": "Crit Rolls [b]+EffectText[/b]NEWLINE[i]for [/i]{name lored all}",
+      "Effect Text": "所有 LORED 暴击掷骰 [b]+EffectText[/b]",
+      "_Description": "Tip: LOREDs may only draw cards and collect {name currency coin} once per Job, even if they succeed on multiple crit rolls.",
+      "Description": "提示：LORED 每次工作只能抽牌和收集 {name currency coin} 一次，即使他们在多次暴击掷骰中成功。"
+    },
+    "lucky_crit": {
+      "_Name": "Soft Locks",
+      "Name": "软锁",
+      "_Effect Text": "Lucky Crit Chance [b]+EffectText%[/b]NEWLINE[i]for [/i]{name lored all}",
+      "Effect Text": "所有 LORED 幸运暴击几率 [b]+EffectText%[/b]",
+      "_Description": "Tip: LOREDs will roll for 1 Lucky Crit per successful regular Crit using their Lucky Crit Chance.",
+      "Description": "提示：LORED 将使用他们的幸运暴击几率为每次成功的常规暴击掷骰 1 次幸运暴击。"
+    },
+    "2u_crit_chance": {
+      "_Name": "What apout quests?!",
+      "Name": "任务捏？！",
+      "_Effect Text": "Crit Chance [b]+EffectText%[/b]NEWLINE[i]for [/i]{name lored main2}",
+      "Effect Text": "{name stage main2} LORED 暴击几率 [b]+EffectText%[/b]"
+    },
+    "rollin": {
+      "_Name": "Rollin",
+      "Name": "掷骰",
+      "_Effect Text": "Maximum Crit Rolls [b]+EffectText[/b]NEWLINE[i]for [/i]{name lored all}",
+      "Effect Text": "所有 LORED 最大暴击掷骰 [b]+EffectText[/b]",
+      "_Description": "Tip: At the start of a LORED's job, they will roll for how many crit rolls they get. That number has a chance equal to its decimal value to round up.",
+      "Description": "提示：在 LORED 工作开始时，他们将掷骰决定他们获得多少次暴击掷骰。该数字有等于其十进制值的几率向上取整。"
+    },
+    "coinage": {
+      "_Name": "Coinage",
+      "Name": "币制",
+      "_Effect Text": "Maximum Coin Output [b]+EffectText[/b]",
+      "Effect Text": "所有 LORED 最大 {name currency coin} 输出 [b]+EffectText[/b]"
+    },
+    "erosion": {
+      "_Name": "Erosion",
+      "Name": "侵蚀",
+      "_Effect Text": "Maximum Crit Multiplier [b]+EffectText[/b]NEWLINE[i]for [/i]{name lored main2}",
+      "Effect Text": "{name stage main2} LORED 最大暴击倍率 [b]+EffectText[/b]"
+    },
+    "tumor_crit1": {
+      "_Name": "Beat",
+      "Name": "心跳",
+      "_Effect Text": "Crit Chance [b]+EffectText%[/b]NEWLINE[i]for [/i]{name lored tumor}",
+      "Effect Text": "{name lored tumor} 暴击几率 [b]+EffectText%[/b]"
+    },
+    "tumor_crit2": {
+      "_Name": "Throb",
+      "Name": "悸动",
+      "_Effect Text": "Crit Chance [b]+EffectText%[/b]NEWLINE[i]for [/i]{name lored tumor}",
+      "Effect Text": "{name lored tumor} 暴击几率 [b]+EffectText%[/b]"
+    },
+    "tumor_crit3": {
+      "_Name": "Badump",
+      "Name": "砰砰",
+      "_Effect Text": "Crit Chance [b]+EffectText%[/b]NEWLINE[i]for [/i]{name lored tumor}",
+      "Effect Text": "{name lored tumor} 暴击几率 [b]+EffectText%[/b]"
+    },
+    "mhm": {
+      "_Name": "Mhm",
+      "Name": "嗯哼",
+      "_Effect Text": "Crit Chance [b]+EffectText%[/b]NEWLINE[i]for [/i]{name lored main2}",
+      "Effect Text": "{name stage main2} LORED 暴击几率 [b]+EffectText%[/b]",
+      "_Description": "Tip: Crit Chance greater than 100% is converted to additional Crit Rolls.",
+      "Description": "提示：暴击几率超过 100% 会转换为额外的暴击掷骰。"
+    },
+    "yup": {
+      "_Name": "Yup",
+      "Name": "没错",
+      "_Effect Text": "Minimum Crit Chance [b]+EffectText%[/b]NEWLINE[i]for [/i]{name lored main2}",
+      "Effect Text": "{name stage main2} LORED 最小暴击几率 [b]+EffectText%[/b]",
+      "_Description": "Tip: Minimum values greater than their maximum counterparts look weird but still work!",
+      "Description": "提示：最小值大于其对应的最大值看起来很奇怪，但仍然有效！"
+    },
+    "affirmative": {
+      "_Name": "Affirmative",
+      "Name": "肯定",
+      "_Effect Text": "Crit Multiplier [b]+EffectText[/b]NEWLINE[i]for [/i]{name lored main2}",
+      "Effect Text": "{name stage main2} LORED 暴击倍率 [b]+EffectText[/b]"
+    },
+    "indeed": {
+      "_Name": "Indeed",
+      "Name": "确实",
+      "_Effect Text": "Maximum Crit Chance [b]+EffectText%[/b]NEWLINE[i]for [/i]{name lored main2}",
+      "Effect Text": "{name stage main2} LORED 最大暴击几率 [b]+EffectText%[/b]"
+    },
+    "A_CHANCE": {
+      "_Name": "So you're telling me there's a chance!",
+      "Name": "所以你是说有机会！",
+      "_Effect Text": "Multiply {name currency coin} gain by [b]27[/b] for the handNEWLINEif the first two cards are [b]2[/b] and [b]7[/b]",
+      "Effect Text": "如果手牌的前两张牌是 [b]2[/b] 和 [b]7[/b]，则将手牌的 {name currency coin} 收益乘以 [b]27[/b]"
+    },
+    "COWBOYS": {
+      "_Name": "Cowboys",
+      "Name": "牛仔",
+      "_Effect Text": "Kings are worth [b]+1[/b] {plural_name currency chip} for the runNEWLINEif the first two cards of a hand are [b]Kings[/b]",
+      "Effect Text": "如果手牌的前两张牌是 [b]K[/b]，则 [b]K[/b] 在本轮中价值 [b]+1[/b] 个 {name currency chip}"
+    },
+    "JACKPOT_SEVENS": {
+      "_Name": "sevens r neat",
+      "Name": "七是很好的",
+      "_Effect Text": "[b]Lucky Sevens[/b] adds [b]7.77x[/b] your current {plural_name currency chip} to the {name currency jackpot}",
+      "Effect Text": "[b]幸运的 7[/b] 将你当前的 {name currency chip} 的 [b]7.77 倍[/b] 添加到 {name currency jackpot}"
+    },
+    "WINNER_WINNER": {
+      "_Name": "Chicken Dinner",
+      "Name": "鸡肉晚餐",
+      "_Effect Text": "[b]Super Lucky Sevens[/b] multiplies the {name currency jackpot} by [b]7,777[/b]",
+      "Effect Text": "[b]超级幸运的 7[/b] 将 {name currency jackpot} 乘以 [b]7,777[/b]"
+    },
+    "ADVANTAGE": {
+      "_Name": "Advantage",
+      "Name": "优势",
+      "_Effect Text": "Rolling 20s rewards [b]+1[/b] {name currency advantage}",
+      "Effect Text": "掷出 20 点奖励 [b]+1[/b] 个 {name currency advantage}"
+    },
+    "ADVANTAGE_COIN": {
+      "_Name": "Blue Privilege",
+      "Name": "蓝色特权",
+      "_Effect Text": "Gain {name currency coin} based on {plural_name currency advantage}NEWLINECurrently: [b]%s[/b]/s",
+      "Effect Text": "根据 {name currency advantage} 获得 {name currency coin}NEWLINE当前： [b]%s[/b]/s"
+    },
+    "ADVANTAGE_CRIT": {
+      "_Name": "Axman13",
+      "Name": "樵夫 13",
+      "_Effect Text": "Gain Crit Chance based on {plural_name currency advantage}NEWLINE[i]for[/i] {name lored main2}",
+      "Effect Text": "{name stage main2} LORED 根据 {name currency advantage} 获得暴击几率"
+    },
+    "NICE": {
+      "_Effect Text": "If the first two cards of a hand are [b]6[/b] and [b]9[/b], all [b]6s[/b] and [b]9s[/b]NEWLINEare worth [b]6.9x[/b] more {plural_name currency chip} for [b]6-9[/b] seconds",
+      "Effect Text": "如果手牌的前两张牌是 [b]6[/b] 和 [b]9[/b]，则所有 [b]6[/b] 和 [b]9[/b] 在 [b]6 至 9[/b] 秒内价值 [b]6.9 倍[/b] 的 {name currency chip}"
+    },
+    "MONEYMAKER": {
+      "_Name": "Moneymaker",
+      "Name": "钞票制造机",
+      "_Effect Text": "Multiply {name currency dollar} and {name currency coin} gain by [b]1.1[/b]NEWLINEif the first two cards of a hand are [b]5[/b] and [b]4[/b]",
+      "Effect Text": "如果手牌的前两张牌是 [b]5[/b] 和 [b]4[/b]，则将 {name currency dollar} 和 {name currency coin} 收益乘以 [b]1.1[/b]"
+    },
+    "TREE_2UNIQUE_AUTOBUYER": {
+      "_Name": "let fate decide",
+      "Name": "听天由命",
+      "_Effect Text": "Automatically purchases {name tree 2unique} Upgrades",
+      "Effect Text": "自动购买 {name tree 2unique} 升级"
+    },
+    "mechanical": {
+      "_Name": "Mechanical",
+      "Name": "机械",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored main1}",
+      "Effect Text": "{name stage main1} LORED 输出和输入 [b]×EffectText[/b]"
+    },
+    "getting_handsy": {
+      "_Name": "Gettin' Handsy",
+      "Name": "动手动脚",
+      "_Effect Text": "Hand Size [b]+EffectText",
+      "Effect Text": "手牌上限 [b]+EffectText[/b]"
+    },
+    "BULLETS": {
+      "_Name": "Bullets",
+      "Name": "子弹",
+      "_Effect Text": "If the first two cards of a hand are [b]Aces[/b], itsNEWLINEscore multiplier will also apply to the next hand",
+      "Effect Text": "如果手牌的前两张牌是 [b]A[/b]，则其分数乘数也将应用于下一手牌"
+    },
+    "luckier": {
+      "_Name": "The Lucky Get Luckier",
+      "Name": "幸运者更幸运",
+      "_Effect Text": "Gain Crit Chance based on Lucky Crits (Gay)NEWLINE[i]for[/i] {name lored main2}NEWLINECurrently: [b]EffectText%[/b]",
+      "Effect Text": "{name stage main2} LORED 根据幸运暴击获得暴击几率NEWLINE当前：[b]EffectText%[/b]"
+    },
+    "unpredictable_speed": {
+      "_Name": "[shake rate=20 level=10]Unpr[/shake]edi[shake rate=20 level=10]cta[/shake]bl[shake rate=20 level=10]e[/shake] Sp[shake rate=20 level=10]eed!!!",
+      "Name": "[shake rate=20 level=10]不[/shake]可[shake rate=20 level=10]预[/shake]测[shake rate=20 level=10]的[/shake]速[shake rate=20 level=10]度[/shake]！！！",
+      "_Effect Text": "{name currency coin} gain [b]+1[/b]NEWLINEHaste multiplier equal to {name currency coin} gainNEWLINE[i]for [/i]{name lored main2}",
+      "Effect Text": "{name stage main2} LORED 的 {name currency coin} 收益 [b]+1[/b]NEWLINE加速乘数等于 {name currency coin} 收益"
+    },
+    "lucky_crit2": {
+      "_Name": "Roguish",
+      "Name": "流氓",
+      "_Effect Text": "Lucky Crit Chance [b]+EffectText%[/b]NEWLINE[i]for [/i]{name lored all}",
+      "Effect Text": "所有 LORED 幸运暴击几率 [b]+EffectText%[/b]"
+    },
+    "gambling_is_cancer": {
+      "_Name": "Gambling Is Cancer",
+      "Name": "赌博是癌症",
+      "_Effect Text": "Output multiplier based on {plural_name currency chip}NEWLINE[i]for [/i]{name lored tumor}",
+      "Effect Text": "{name lored tumor} 基于 {name currency chip} 的输出乘数"
+    },
+    "CALIBRATE_ENTHUSIASM": {
+      "_Name": "Really? It's a [i]prestige.[/i] Calibrate your enthusiasm.",
+      "Name": "真的吗？这只是一个[i]重置。[/i]收敛你的热情。",
+      "_Effect Text": "For 120 seconds following a prestige,NEWLINELOREDs will ignore all autobuyer conditions.",
+      "Effect Text": "在重置后的 120 秒内，LORED 将忽略所有自动购买条件。"
+    },
+    "FIBONACCI": {
+      "_Name": "Squequence",
+      "Name": "数列",
+      "_Effect Text": "[b]Fibonaccis[/b] multiply {name currency chip} gain by [b]13[/b] for 21 seconds",
+      "Effect Text": "[b]斐波那契数列[/b] 在 21 秒内将 {name currency chip} 收益乘以 [b]13[/b]"
+    },
+    "BURST_FIRE": {
+      "_Name": "Burst Fire",
+      "Name": "连发",
+      "_Effect Text": "[b]Tres Amigos[/b] triggers [b]Bullets[/b] for the next [b]3[/b] hands.",
+      "Effect Text": "[b]三剑客[/b] 在接下来的 [b]3[/b] 手牌中触发 [b]子弹[/b]。"
+    },
+    "MOIST": {
+      "_Name": "Moist",
+      "Name": "潮湿",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored main2}",
+      "Effect Text": "{name stage main2} LORED 输出和输入 [b]×EffectText[/b]"
+    },
+    "UNLOCK_DICE": {
+      "_Name": "Fortunate Die",
+      "Name": "幸运骰子",
+      "_Effect Text": "At the start of every new hand, roll a 20-sided die!NEWLINEThe value of its roll will multiply {name currency chip} gain.",
+      "Effect Text": "在每手新牌开始时，掷一个 20 面骰！NEWLINE其掷骰的数值将乘以 {name currency chip} 收益。"
+    },
+    "JACKPOT": {
+      "_Name": "Jackpot",
+      "Name": "头奖",
+      "_Description": "The pot increases by 1% of all Chips gained.",
+      "Description": "奖池增加 {name currency chip} 收益的 1%。"
+    },
+    "JACKPOT_CHIPS": {
+      "_Name": "Getting High",
+      "Name": "变高",
+      "_Effect Text": "{name currency chip} gain [b]x%s[/b] (based on {name currency jackpot} minus {plural_name currency chip})NEWLINE{name currency jackpot} gain [b]x%s[/b] (based on {plural_name currency chip} minus {name currency jackpot})",
+      "Effect Text": "{name currency chip} 收益 [b]x%s[/b]（基于 {name currency jackpot} 减去 {name currency chip}）NEWLINE{name currency jackpot} 收益 [b]x%s[/b]（基于 {name currency chip} 减去 {name currency jackpot}）"
+    },
+    "DICE_COIN": {
+      "_Name": "Coin Wall",
+      "Name": "硬币墙",
+      "_Effect Text": "D20 rolls add to {name currency coin} gain",
+      "Effect Text": "掷 20 面骰增加 {name currency coin} 收益"
+    },
+    "FIRING_SQUAD": {
+      "_Name": "Firing Squad",
+      "Name": "行刑队",
+      "_Effect Text": "[b]Rockets[/b] triggers [b]Bullets[/b] for the next [b]12[/b] hands.",
+      "Effect Text": "[b]火箭[/b] 在接下来的 [b]12[/b] 手牌中触发 [b]子弹[/b]。"
+    },
+    "RELEVANT": {
+      "_Name": "I'm still relevant!!!",
+      "Name": "我依然很重要！！！",
+      "_Effect Text": "Crit Multiplier addition based on {name currency malignancy}NEWLINE[i]for [/i]{name lored main2}",
+      "Effect Text": "{name stage main2} LORED 暴击乘数基于 {name currency malignancy} 增加"
+    },
+    "RED_NECROMANCY": {
+      "_Name": "Red Necromancy",
+      "Name": "红色死灵法术",
+      "_Effect Text": "{name tree 1b} UpgradesNEWLINEno longer require Metastasizing",
+      "Effect Text": "{name tree 1b} 升级不再需要转移"
+    },
+    "SQUINTS": {
+      "_Name": "Squints",
+      "Name": "眯眼",
+      "_Effect Text": "If the first two cards of a hand are [b]4s[/b],NEWLINE[b]4s[/b] will count as [b]Aces[/b] for the hand",
+      "Effect Text": "如果手牌的前两张牌是 [b]4[/b]，则本手牌中的 [b]4[/b] 将计为 [b]A[/b]"
+    },
+    "seven_years": {
+      "_Name": "Seven Years",
+      "Name": "七年",
+      "_Effect Text": "Unlock {name tree 3a}!",
+      "Effect Text": "解锁 {name tree 3a}！"
+    },
+    "unlock_gem": {
+      "_Name": "You wouldn't stuff a LORED in an Upgrade Tree, would you, Mr. Drillur?",
+      "Name": "你不会把 LORED 塞进升级树里吧，Drillur 先生？",
+      "_Effect Text": "Unlock {name lored gem},NEWLINEthe {title lored gem} LORED",
+      "Effect Text": "解锁 {name lored gem} 即 {title lored gem} LORED"
+    },
+    "affluent": {
+      "_Name": "Affluent",
+      "Name": "富裕",
+      "_Effect Text": "Gain {plural_name currency dollar} equal to 1% of your {plural_name currency gem} each second",
+      "Effect Text": "每秒获得相当于你 {name currency gem} 的 1% 的 {name currency dollar}"
+    },
+    "peas_pod": {
+      "_Name": "Peas in a Pod",
+      "Name": "豌豆荚",
+      "_Effect Text": "Unlock a few lil fellas!",
+      "Effect Text": "解锁一些小家伙！"
+    },
+    "SUPER_SUCKER": {
+      "_Name": "Super Sucker",
+      "Name": "超级吸尘器",
+      "_Effect Text": "Output multiplier based on {plural_name currency ad_bonus}NEWLINE[i]for [/i]{name lored gem}",
+      "Effect Text": "{name lored gem} 输出乘数基于 {name currency ad_bonus}"
+    },
+    "PERMANENT_AD_BONUS": {
+      "_Name": "Permanent Ad Bonus",
+      "Name": "永久广告奖励",
+      "_Effect Text": "Output multiplier based on {plural_name currency subscription}NEWLINE[i]for [/i]{name lored ad}",
+      "Effect Text": "{name lored ad} 输出乘数基于 {name currency subscription}"
+    },
+    "THANK_YOU_EMAIL": {
+      "_Name": "Thank You Email",
+      "Name": "感谢邮件",
+      "_Effect Text": "Output multiplier based on {plural_name currency deluxe_edition}NEWLINE[i]for [/i]{name lored battle_pass}",
+      "Effect Text": "{name lored battle_pass} 输出乘数基于 {name currency deluxe_edition}"
+    },
+    "TAX_AUDIT": {
+      "_Name": "Tax Audit",
+      "Name": "税务审计",
+      "_Effect Text": "Output multiplier based on {plural_name currency tax_writeoff}NEWLINE[i]for [/i]{name lored deluxe}",
+      "Effect Text": "{name lored deluxe} 输出乘数基于 {name currency tax_writeoff}"
+    },
+    "THE_RICH_GET_RICHER": {
+      "_Name": "The Rich Get Richer",
+      "Name": "富者愈富",
+      "_Effect Text": "Output multiplier based on {plural_name currency dollar}NEWLINE[i]for [/i]{name lored whale}",
+      "Effect Text": "{name lored whale} 输出乘数基于 {name currency dollar}"
+    },
+    "microtransactions": {
+      "_Name": "Microtransactions",
+      "Name": "微交易",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored main1}",
+      "Effect Text": "{name stage main1} LORED 输出和输入 [b]×EffectText[/b]"
+    },
+    "we_love_money": {
+      "_Name": "[shake rate=20 level=10]We Love Money!!!",
+      "Name": "[shake rate=20 level=10]我们爱钱！！！[/shake]",
+      "_Effect Text": "Haste [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored main1}",
+      "Effect Text": "{name stage main1} LORED 加速 [b]×EffectText[/b]"
+    },
+    "three_day_early_access": {
+      "_Name": "Three Days Early Access!!!",
+      "Name": "提前三天访问！！！",
+      "_Effect Text": "Crit Multiplier [b]+EffectText[/b]NEWLINE[i]for [/i]{name lored main1}",
+      "Effect Text": "{name stage main1} LORED 暴击乘数 [b]+EffectText[/b]"
+    },
+    "banner_ads": {
+      "_Name": "Banner Ads",
+      "Name": "横幅广告",
+      "_Effect Text": "Output x2 while a LORED's Safety Wheel [b]core[/b] is fullNEWLINE[i]for [/i]{name lored main1} and {name lored main2}",
+      "Effect Text": "{name stage main1} 和 {name stage main2} LORED 的安全轮 [b]核心[/b] 充满时输出 ×2"
+    },
+    "in_game_currency": {
+      "_Name": "In-game Currency",
+      "Name": "游戏内货币",
+      "_Effect Text": "Maximum [b]Juiced[/b] Crit Chance [b]+EffectText%[/b]",
+      "Effect Text": "最大 [b]果汁满满[/b] 暴击几率 [b]+EffectText%[/b]",
+      "_Description": "Rest assured that all of the in-game purchases were calculated to leave just a little bit of this [i]special currency[/i] left over. Remember, [b]this is for you![/b]",
+      "Description": "请放心，所有游戏内购买都经过计算，只剩下一点点这种 [i]特殊货币[/i]。记住，[b]这是为了你！[/b]"
+    },
+    "login_rewards": {
+      "_Name": "Login Rewards",
+      "Name": "登录奖励",
+      "_Effect Text": "Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored main1}",
+      "Effect Text": "{name stage main1} LORED 输入 [b]×EffectText[/b]"
+    },
+    "TORIYAMA": {
+      "_Name": "Toriyama",
+      "Name": "鸟山明",
+      "_Effect Text": "Haste [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored gem}",
+      "Effect Text": "{name lored gem} 加速 [b]×EffectText[/b]"
+    },
+    "FASTER_EYES": {
+      "_Name": "Faster Eyes",
+      "Name": "更快的眼睛",
+      "_Effect Text": "Haste [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored ad}",
+      "Effect Text": "{name lored ad} 加速 [b]×EffectText[/b]"
+    },
+    "MUSCLE_MEMORY": {
+      "_Name": "Muscle Memory",
+      "Name": "肌肉记忆",
+      "_Effect Text": "Haste [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored battle_pass}",
+      "Effect Text": "{name lored battle_pass} 加速 [b]×EffectText[/b]"
+    },
+    "MINIONS": {
+      "_Name": "Minions",
+      "Name": "小兵",
+      "_Effect Text": "Haste [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored deluxe}",
+      "Effect Text": "{name lored deluxe} 加速 [b]×EffectText[/b]"
+    },
+    "PROPELLER": {
+      "_Name": "Propeller",
+      "Name": "螺旋桨",
+      "_Effect Text": "Haste [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored whale}",
+      "Effect Text": "{name lored whale} 加速 [b]×EffectText[/b]"
+    },
+    "EXTRACURRICULAR": {
+      "_Name": "Extracurricular",
+      "Name": "课外活动",
+      "_Effect Text": "Crit Chance [b]+EffectText%[/b]NEWLINE[i]for [/i]{name tree cash_shop} LOREDs",
+      "Effect Text": "{name tree cash_shop} LORED 暴击几率 [b]+EffectText%[/b]"
+    },
+    "INTERCURRICULAR": {
+      "_Name": "Intercurricular",
+      "Name": "校际活动",
+      "_Effect Text": "Crit Multiplier [b]+EffectText[/b]NEWLINE[i]for [/i]{name tree cash_shop} LOREDs",
+      "Effect Text": "{name tree cash_shop} LORED 暴击倍率 [b]+EffectText[/b]"
+    },
+    "SUPER_SUCKER_2": {
+      "_Name": "Sucker Centurion",
+      "Name": "吸尘器百夫长",
+      "_Effect Text": "Increases the power component ofNEWLINE{name upgrade SUPER_SUCKER}'s formula by [b]0.25[/b]",
+      "Effect Text": "将 {name upgrade SUPER_SUCKER} 公式的幂次增加 [b]0.25[/b]",
+      "_Description": "The formula begins as log base 10 of {plural_name currency ad_bonus} raised to the power of 2.",
+      "Description": "该公式从 {name currency ad_bonus} 的以 10 为底的对数开始，提升至 2 的幂。"
+    },
+    "WEEHOO": {
+      "_Name": "Weehoo",
+      "Name": "芜湖",
+      "_Effect Text": "Haste [b]xEffectText[/b]NEWLINE[i]for [/i]{name tree cash_shop} LOREDs",
+      "Effect Text": "{name tree cash_shop} LORED 加速 [b]×EffectText[/b]"
+    },
+    "TREE_CASH_SHOP_AUTOBUYER": {
+      "_Name": "i cant believe you murdered all of those squirtlings in favor of this shit",
+      "Name": "我简直不敢相信你为了这玩意儿杀死了所有那水花",
+      "_Effect Text": "Automatically purchases {name tree cash_shop} Upgrades",
+      "Effect Text": "自动购买 {name tree cash_shop} 升级"
+    },
+    "BUY_THINGY": {
+      "_Name": "New Thingy",
+      "Name": "新玩意儿",
+      "_Effect Text": "New Thingy!",
+      "Effect Text": "新玩意儿！"
+    },
+    "URGENCY": {
+      "_Name": "Urgency",
+      "Name": "紧迫感",
+      "_Effect Text": "Duration [b]-EffectText[/b]",
+      "Effect Text": "持续时间 [b]-EffectText[/b]"
+    },
+    "BOXER": {
+      "_Name": "Boxer",
+      "Name": "拳击手",
+      "_Effect Text": "Topaz Output [b]+EffectText[/b]",
+      "Effect Text": "{name currency topaz} 输出 [b]+EffectText[/b]"
+    },
+    "UNLOCK_THINGY_XP": {
+      "_Name": "Adventurer",
+      "Name": "冒险者",
+      "_Effect Text": "Unlock XP and Levels",
+      "Effect Text": "解锁 XP 和等级"
+    },
+    "LOW_ROLLER": {
+      "_Name": "Low Roller",
+      "Name": "下小注",
+      "_Effect Text": "Crit Chance [b]+EffectText%[/b]",
+      "Effect Text": "暴击几率 [b]+EffectText%[/b]"
+    },
+    "RANDY_ORTON": {
+      "_Name": "Randy Orton",
+      "Name": "兰迪·奥顿",
+      "_Effect Text": "Topaz Output [b]xEffectText[/b]",
+      "Effect Text": "{name currency topaz} 输出 [b]×EffectText[/b]"
+    },
+    "IMPOSTER": {
+      "_Name": "Imposter",
+      "Name": "冒名顶替",
+      "_Effect Text": "Crits produce [b]0 - 1[/b] {name currency will}",
+      "Effect Text": "暴击产生 [b]0 至 1[/b] {name currency will}"
+    },
+    "DIE_SON": {
+      "_Name": "Die, Son!",
+      "Name": "去死，儿子！",
+      "_Effect Text": "Crit Chance [b]+EffectText%[/b]",
+      "Effect Text": "暴击几率 [b]+EffectText%[/b]"
+    },
+    "TIME_BANDIT": {
+      "_Name": "Time Bandit",
+      "Name": "时光大盗",
+      "_Effect Text": "Minimum Duration [b]xEffectText[/b]",
+      "Effect Text": "最小持续时间 [b]×EffectText[/b]"
+    },
+    "BEG": {
+      "_Name": "Beg",
+      "Name": "乞讨",
+      "_Effect Text": "Maximum Crit Multiplier [b]+EffectText[/b]",
+      "Effect Text": "最大暴击倍率 [b]+EffectText[/b]"
+    },
+    "ROGUE_AND_SCHOLAR": {
+      "_Name": "Rogue and Scholar",
+      "Name": "无赖与学者",
+      "_Effect Text": "Crits multiply XP Gain",
+      "Effect Text": "暴击使 XP 收益倍增"
+    },
+    "THROUGH_AND_THROUGH": {
+      "_Name": "Through and Through",
+      "Name": "彻彻底底",
+      "_Effect Text": "Crits multiply {name currency will} Output",
+      "Effect Text": "暴击使 {name currency will} 输出倍增"
+    },
+    "ANGST": {
+      "_Name": "Angst",
+      "Name": "焦虑",
+      "_Effect Text": "Duration [b]xEffectText[/b]",
+      "Effect Text": "持续时间 [b]×EffectText[/b]"
+    },
+    "MOOD_SWING": {
+      "_Name": "Mood Swing",
+      "Name": "情绪波动",
+      "_Effect Text": "Minimum Duration [b]-EffectText[/b]",
+      "Effect Text": "最小持续时间 [b]-EffectText[/b]"
+    },
+    "FISCAL": {
+      "_Name": "Fiscal",
+      "Name": "财政",
+      "_Effect Text": "Will Output [b]+EffectText[/b]",
+      "Effect Text": "{name currency will} 输出 [b]+EffectText[/b]"
+    },
+    "DOUBLE_DIP": {
+      "_Name": "Double Dip",
+      "Name": "双重打击",
+      "_Effect Text": "Crit Rolls [b]+EffectText[/b]",
+      "Effect Text": "暴击掷骰 [b]+EffectText[/b]"
+    },
+    "BATTER": {
+      "_Name": "Batter",
+      "Name": "击球手",
+      "_Effect Text": "Topaz Output [b]xEffectText[/b]",
+      "Effect Text": "{name currency topaz} 输出 [b]×EffectText[/b]"
+    },
+    "THIEFS_GAIT": {
+      "_Name": "Thief's Gait",
+      "Name": "偷偷摸摸",
+      "_Effect Text": "Crits divide Duration",
+      "Effect Text": "暴击除以持续时间"
+    },
+    "CONSIDERATION": {
+      "_Name": "Consideration",
+      "Name": "考虑",
+      "_Effect Text": "Duration [i]increase[/i] [b]-EffectText[/b]",
+      "Effect Text": "持续时间 [i]增加[/i] [b]-EffectText[/b]"
+    },
+    "PUNCTURE": {
+      "_Name": "Puncture",
+      "Name": "穿刺",
+      "_Effect Text": "Topaz Output [i]increase[/i] [b]+EffectText[/b]",
+      "Effect Text": "{name currency topaz} 输出 [i]增加[/i] [b]+EffectText[/b]"
+    },
+    "CAT_BURGLAR": {
+      "_Name": "Cat Burglar",
+      "Name": "飞贼",
+      "_Effect Text": "Crit Multiplier [b]xEffectText[/b]",
+      "Effect Text": "暴击倍率 [b]×EffectText[/b]"
+    },
+    "SLAY": {
+      "_Name": "Slay",
+      "Name": "杀戮",
+      "_Effect Text": "Crit Chance [b]+EffectText%[/b]",
+      "Effect Text": "暴击几率 [b]+EffectText%[/b]"
+    },
+    "MICROPHONE": {
+      "_Name": "Microphone",
+      "Name": "话筒",
+      "_Effect Text": "Output and Input multiplier based on {name currency will}NEWLINE[i]for [/i]Stage 1 [i]and[/i] {name lored main2}",
+      "Effect Text": "{name stage main1} 和 {name stage main2} LORED 输出和输入乘数基于 {name currency will}"
+    },
+    "REFUND": {
+      "_Name": "Refund",
+      "Name": "退款",
+      "_Effect Text": "Coin gain [b]+1[/b] for everyNEWLINEunused (lowered) card in hand",
+      "Effect Text": "每手牌中未使用（降低）的牌增加 [b]+1[/b] 个 {name currency coin}"
+    },
+    "TRIPLE_A_BALANCING": {
+      "_Name": "Triple A Balancing",
+      "Name": "三 A 平衡",
+      "_Effect Text": "Output x2 per 2 in the hand",
+      "Effect Text": "手牌中每有 2 张牌，输出 x2"
+    },
+    "CRUSH": {
+      "_Name": "Crush",
+      "Name": "粉碎",
+      "_Effect Text": "Crit Multiplier [b]+EffectText[/b]NEWLINE[i]for [/i]{name lored main2}",
+      "Effect Text": "{name stage main2} LORED 暴击倍率 [b]+EffectText[/b]"
+    },
+    "THINGY_INFLUENCE": {
+      "_Name": "Thingy Influence",
+      "Name": "玩意儿影响",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored main2}",
+      "Effect Text": "{name stage main1} 和 {name stage main2} LORED 输出和输入乘数基于 {name currency will}"
+    },
+    "CREATIO_EX_NIHILO": {
+      "_Name": "Creatio Ex Surplusio",
+      "Name": "断木为器",
+      "_Effect Text": "Output [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored main2}",
+      "Effect Text": "{name stage main2} LORED 输出 [b]×EffectText[/b]"
+    },
+    "TREE_THINGY_AUTOBUYER": {
+      "_Name": "just let me sleep",
+      "Name": "让我睡会儿",
+      "_Effect Text": "Automatically purchases {name tree thingy} Upgrades",
+      "Effect Text": "自动购买 {name tree thingy} 升级"
+    },
+    "something_wicked": {
+      "_Name": "Something Wicked This Way Comes",
+      "Name": "从魔界来的"
+    },
+    "siphon": {
+      "_Name": "Siphon",
+      "Name": "虹吸",
+      "_Effect Text": "Starting at level 100, gain {plural_name currency cell} based on {name lored malignancy}'s levelNEWLINECurrently: [b]%s[/b]/s",
+      "Effect Text": "从 100 级开始，根据 {name lored malignancy} 的等级获得 {name currency cell}NEWLINE当前：[b]%s[/b]/秒"
+    },
+    "mitochondria": {
+      "_Name": "Mitochondria",
+      "Name": "线粒体",
+      "_Effect Text": "Output multiplier based on {plural_name currency cell}NEWLINE[i]for [/i]{name lored main1}",
+      "Effect Text": "{name stage main1} LORED 输出乘数基于 {name currency cell}"
+    },
+    "myelin": {
+      "_Name": "Myelin",
+      "Name": "髓鞘",
+      "_Effect Text": "Haste multiplier based on {plural_name currency cell}NEWLINE[i]for [/i]{name lored main1}",
+      "Effect Text": "{name stage main1} LORED 加速乘数基于 {name currency cell}"
+    },
+    "ENDOJUICOSIS": {
+      "_Name": "Endojuicosis",
+      "Name": "内果汁病",
+      "_Effect Text": "Gain Maximum [b]Juiced[/b] Crit Chance based on {plural_name currency cell}NEWLINECurrently: [b]%s",
+      "Effect Text": "根据 {name currency cell} 获得最大 [b]果汁满满[/b] 暴击几率NEWLINE当前：[b]%s[/b]"
+    },
+    "CELL_ENRAGED": {
+      "_Name": "I ain't no biology major",
+      "Name": "我可不是生物学专业的",
+      "_Effect Text": "[b]Enraged[/b] Output [b]xEffectText[/b]",
+      "Effect Text": "[b]怒气勃勃[/b] 输出 [b]×EffectText[/b]"
+    },
+    "CELL_OUTPUT": {
+      "_Name": "yo mama",
+      "Name": "你妈妈",
+      "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored main1}",
+      "Effect Text": "{name stage main1} LORED 输出和输入 [b]×EffectText[/b]"
+    },
+    "CELL_JUICE": {
+      "_Name": "whatever",
+      "Name": "随便",
+      "_Effect Text": "[b]Juiced[/b] Haste [b]xEffectText[/b]",
+      "Effect Text": "[b]果汁满满[/b] 加速 [b]×EffectText[/b]"
+    },
+    "unlock_stone": {
+      "_Name": "Stone LORED",
+      "Name": "石头 LORED",
+      "_Effect Text": "Unlock {name lored stone},NEWLINEthe {title lored stone} LORED",
+      "Effect Text": "解锁 {name lored stone} 即 {title lored stone} LORED"
+    },
+    "unlock_upgrades": {
+      "_Name": "Upgrades",
+      "Name": "升级",
+      "_Description": "Reveals the Upgrades button. You can click it to open the Upgrades panel, or you can use a hotkey such as [b]Q[/b].",
+      "Description": "显示升级按钮。你可以点击它打开升级面板，或者使用快捷键如 [b]Q[/b]。"
+    },
+    "LIMIT_BREAK_ARCADE_RUN": {
+      "_Name": "Limit Break Arcade Run",
+      "Name": "极限突破街机模式"
+    },
+    "LIMIT_BREAK": {
+      "_Name": "[rainbow freq=0.15][wave amp=20 freq=1]Limit Break[/wave][/rainbow]",
+      "Name": "[rainbow freq=0.15][wave amp=20 freq=1]极限突破[/wave][/rainbow]"
+    }
+  },
+  "UpgradeTrees": {
+    "1a": {
+      "_Name": "Firestarter Upgrades",
+      "Name": "火种升级"
+    },
+    "1unique": {
+      "_Name": "Juice Pot",
+      "Name": "果汁锅"
+    },
+    "1b": {
+      "_Name": "Malignant Upgrades",
+      "Name": "恶性升级",
+      "_Prestige Name": "Metastasize",
+      "Prestige Name": "转移",
+      "_Prestige Noun": "Metastasis",
+      "Prestige Noun": "转移",
+      "_Prestige Past Verb": "Metastasized",
+      "Prestige Past Verb": "转移",
+      "_Prestige Present Verb": "Metastasize",
+      "Prestige Present Verb": "转移"
+    },
+    "2a": {
+      "_Name": "Muck Upgrades",
+      "Name": "淤泥升级"
+    },
+    "2unique": {
+      "_Name": "Fate Upgrades",
+      "Name": "命运升级"
+    },
+    "2b": {
+      "_Name": "Radiative Upgrades",
+      "Name": "放射升级",
+      "_Prestige Name": "Chemotherapy",
+      "Prestige Name": "化疗",
+      "_Prestige Noun": "Chemotherapy",
+      "Prestige Noun": "化疗",
+      "_Prestige Past Verb": "taken Chemotherapy",
+      "Prestige Past Verb": "化疗",
+      "_Prestige Present Verb": "undergo Chemotherapy",
+      "Prestige Present Verb": "化疗"
+    },
+    "3a": {
+      "_Name": "Corrosive Upgrades",
+      "Name": "腐蚀升级"
+    },
+    "3unique": {},
+    "3b": {
+      "_Name": "Spirit Upgrades",
+      "Name": "精神升级",
+      "_Prestige Name": "Possess",
+      "Prestige Name": "附身",
+      "_Prestige Noun": "Possession",
+      "Prestige Noun": "附身",
+      "_Prestige Past Verb": "Possessed",
+      "Prestige Past Verb": "附身",
+      "_Prestige Present Verb": "Possess Host",
+      "Prestige Present Verb": "附身"
+    },
+    "4a": {},
+    "4unique": {},
+    "4b": {},
+    "cash_shop": {
+      "_Name": "Cash Shop",
+      "Name": "现金商店"
+    },
+    "thingy": {
+      "_Name": "Thingy Garden",
+      "Name": "那些玩意儿"
+    },
+    "healer": {
+      "_Name": "Healing House",
+      "Name": "治疗屋"
+    },
+    "life": {
+      "_Name": "Life",
+      "Name": "生命"
+    },
+    "parasitic": {
+      "_Name": "Parasitic Upgrades",
+      "Name": "寄生升级"
+    }
+  }
+}

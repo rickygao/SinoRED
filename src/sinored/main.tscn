@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bn0r83ltlvify"]
+
+[ext_resource type="Script" uid="uid://cqocwj5cnckyy" path="res://sinored/main.gd" id="1_lcwmw"]
+
+[node name="NewMod" type="Node"]
+script = ExtResource("1_lcwmw")
