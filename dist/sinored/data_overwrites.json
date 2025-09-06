@@ -632,7 +632,7 @@
   "Jobs": {
     "fill_juice": {
       "_Name": "Juice Up",
-      "Name": "补充果汁",
+      "Name": "补液",
       "_Status Text": "Juicing!",
       "Status Text": "补液中！"
     },
@@ -640,7 +640,7 @@
       "_Name": "Enrage",
       "Name": "激怒",
       "_Status Text": "Raging!",
-      "Status Text": "狂怒中！"
+      "Status Text": "激怒中！"
     },
     "coal": {
       "_Name": "Dig",
@@ -2190,8 +2190,8 @@
       "Name": "我喝你的奶昔！",
       "_Effect Text": "Output [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored coal}",
       "Effect Text": "{name lored coal} 输出 [b]×EffectText[/b]",
-      "_Description": "This effect is increased every time any LORED uses {name currency coal}. The rate of increase is based on {name lored coal}'s level.",
-      "Description": "每当有 LORED 使用 {name currency coal} 时，此效果都会增加。增加的速率取决于 {name lored coal} 的等级。"
+      "_Description": "Output multiplier [i]for [/i]{name lored coal}NEWLINEIncreases based on his level whenever {name currency coal} is usedNEWLINECurrently: [b]x%s[/b]",
+      "Description": "每当使用 {name currency coal} 时 {name lored coal} 输出倍数都会增加，增加的速率基于其等级NEWLINE当前 [b]×%s[/b]"
     },
     "aw": {
       "_Name": "Awh! <3",
@@ -2270,10 +2270,8 @@
     "its_growin_on_me": {
       "_Name": "[shake rate=20 level=10]IT'S GROWIN ON ME",
       "Name": "[shake rate=20 level=10]它在我身上生长[/shake]",
-      "_Effect Text": "Maximum Output [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored iron} [i]and[/i] {name lored copper}",
-      "Effect Text": "{name lored iron} [i]和[/i] {name lored copper} 最大输出 [b]×EffectText[/b]",
-      "_Description": "This effect is equal to {name lored growth}'s level.",
-      "Description": "此效果等于 {name lored growth} 的等级。"
+      "_Effect Text": "Maximum Output multiplier based on {name lored growth}'s levelNEWLINE[i]for [/i]{name lored iron} [i]and[/i] {name lored copper}NEWLINECurrently: [b]x%s[/b]",
+      "Effect Text": "{name lored iron} 和 {name lored copper} 的最大输出倍率基于 {name lored growth} 的等级NEWLINE当前 [b]×%s[/b]"
     },
     "potential_for_good": {
       "_Name": "Potential for Good",
@@ -2311,7 +2309,7 @@
       "_Name": "upgrade_name",
       "Name": "upgrade_name",
       "_Effect Text": "Output multiplier [i]increase[/i] 2.0 {icon arrow_right_line} 2.1NEWLINE[i]for [/i]{name stage main1} LOREDs",
-      "Effect Text": "{name stage main1} LORED 输出乘数 [i]增加[/i] 2.0 {icon arrow_right_line} 2.1"
+      "Effect Text": "{name stage main1} LORED 输出倍率 [i]增加[/i] 2.0 {icon arrow_right_line} 2.1"
     },
     "the_swamp": {
       "_Name": "The Swamp",
@@ -2731,9 +2729,7 @@
       "_Name": "Get Lucky Twice",
       "Name": "双喜临门",
       "_Effect Text": "Maximum Crit Chance [b]+EffectText%[/b]NEWLINE[i]for [/i]{name lored main2}",
-      "Effect Text": "{name stage main2} LORED 最大暴击几率 [b]+EffectText%[/b]",
-      "_Description": "Tip: At the start of a LORED's job, they will roll for the crit chance they will have for all crit rolls for that job.",
-      "Description": "提示：在 LORED 工作开始时，他们将掷骰决定该工作所有暴击掷骰的暴击几率。"
+      "Effect Text": "{name stage main2} LORED 最大暴击几率 [b]+EffectText%[/b]"
     },
     "snap": {
       "_Name": "Snap",
@@ -2758,8 +2754,8 @@
     "JIGGITIES": {
       "_Name": "Jiggities",
       "Name": "绝绝子",
-      "_Effect Text": "Multiply {name lored hardwood}'s Output by [b]1.1[/b]NEWLINEif the first two cards of a hand are [b]Jacks[/b]",
-      "Effect Text": "如果手牌的前两张牌是 [b]J[/b]，则将 {name lored hardwood} 的输出乘以 [b]1.1[/b]"
+      "_Effect Text": "Multiply {name lored hardwood}'s Output by [b]1.1[/b]NEWLINEif the first two cards of a hand are [b]Jacks[/b]NEWLINECurrently: [b]x%s[/b]",
+      "Effect Text": "如果手牌的前两张牌是 [b]J[/b]，则将 {name lored hardwood} 的输出乘以 [b]1.1[/b]NEWLINE当前 [b]×%s[/b]"
     },
     "THE_ANSWER": {
       "_Name": "The Answer",
@@ -2770,8 +2766,8 @@
     "ALL_BARK": {
       "_Name": "All Bark",
       "Name": "全是树皮",
-      "_Effect Text": "Multiply {name lored tree}'s Output by [b]1.025[/b]NEWLINEif the first two cards of a hand are [b]King[/b] and [b]9[/b]",
-      "Effect Text": "如果手牌的前两张牌是 [b]K[/b] 和 [b]9[/b]，则将 {name lored tree} 的输出乘以 [b]1.025[/b]"
+      "_Effect Text": "Multiply {name lored tree}'s Output by [b]1.025[/b]NEWLINEif the first two cards of a hand are [b]King[/b] and [b]9[/b]NEWLINECurrently: [b]x%s[/b]",
+      "Effect Text": "如果手牌的前两张牌是 [b]K[/b] 和 [b]9[/b]，则将 {name lored tree} 的输出乘以 [b]1.025[/b]NEWLINE当前 [b]×%s[/b]"
     },
     "digit": {
       "_Name": "Digit",
@@ -2783,7 +2779,7 @@
       "_Name": "R.O.I.",
       "Name": "投资回报率",
       "_Effect Text": "Crit Multiplier [i]multiplier[/i]NEWLINE(log(10 + latest Chip gain))",
-      "Effect Text": "暴击倍率 [i]乘数[/i]NEWLINE(log(10 + 最新 {name currency chip} 收益))"
+      "Effect Text": "暴击倍率 [i]倍率[/i]NEWLINE(log(10 + 最新 {name currency chip} 收益))"
     },
     "BEST_HANDS": {
       "_Name": "Best Hands",
@@ -2797,23 +2793,19 @@
       "_Name": "Recursive",
       "Name": "递归",
       "_Effect Text": "{name currency chip} multiplier based onNEWLINEthe sum from your [b]Best Hands[/b]",
-      "Effect Text": "{name currency chip} 乘数基于你 [b]最佳手牌[/b] 总和"
+      "Effect Text": "{name currency chip} 倍率基于你 [b]最佳手牌[/b] 总和"
     },
     "do_it_again": {
       "_Name": "ill f*ckin do it again",
       "Name": "我他*的再来一次",
       "_Effect Text": "Crit Rolls [b]+EffectText[/b]NEWLINE[i]for [/i]{name lored all}",
-      "Effect Text": "所有 LORED 暴击掷骰 [b]+EffectText[/b]",
-      "_Description": "Tip: LOREDs may only draw cards and collect {name currency coin} once per Job, even if they succeed on multiple crit rolls.",
-      "Description": "提示：LORED 每次工作只能抽牌和收集 {name currency coin} 一次，即使他们在多次暴击掷骰中成功。"
+      "Effect Text": "所有 LORED 暴击掷骰 [b]+EffectText[/b]"
     },
     "lucky_crit": {
       "_Name": "Soft Locks",
       "Name": "软锁",
       "_Effect Text": "Lucky Crit Chance [b]+EffectText%[/b]NEWLINE[i]for [/i]{name lored all}",
-      "Effect Text": "所有 LORED 幸运暴击几率 [b]+EffectText%[/b]",
-      "_Description": "Tip: LOREDs will roll for 1 Lucky Crit per successful regular Crit using their Lucky Crit Chance.",
-      "Description": "提示：LORED 将使用他们的幸运暴击几率为每次成功的常规暴击掷骰 1 次幸运暴击。"
+      "Effect Text": "所有 LORED 幸运暴击几率 [b]+EffectText%[/b]"
     },
     "2u_crit_chance": {
       "_Name": "What apout quests?!",
@@ -2825,9 +2817,7 @@
       "_Name": "Rollin",
       "Name": "掷骰",
       "_Effect Text": "Maximum Crit Rolls [b]+EffectText[/b]NEWLINE[i]for [/i]{name lored all}",
-      "Effect Text": "所有 LORED 最大暴击掷骰 [b]+EffectText[/b]",
-      "_Description": "Tip: At the start of a LORED's job, they will roll for how many crit rolls they get. That number has a chance equal to its decimal value to round up.",
-      "Description": "提示：在 LORED 工作开始时，他们将掷骰决定他们获得多少次暴击掷骰。该数字有等于其十进制值的几率向上取整。"
+      "Effect Text": "所有 LORED 最大暴击掷骰 [b]+EffectText[/b]"
     },
     "coinage": {
       "_Name": "Coinage",
@@ -2863,9 +2853,7 @@
       "_Name": "Mhm",
       "Name": "嗯哼",
       "_Effect Text": "Crit Chance [b]+EffectText%[/b]NEWLINE[i]for [/i]{name lored main2}",
-      "Effect Text": "{name stage main2} LORED 暴击几率 [b]+EffectText%[/b]",
-      "_Description": "Tip: Crit Chance greater than 100% is converted to additional Crit Rolls.",
-      "Description": "提示：暴击几率超过 100% 会转换为额外的暴击掷骰。"
+      "Effect Text": "{name stage main2} LORED 暴击几率 [b]+EffectText%[/b]"
     },
     "yup": {
       "_Name": "Yup",
@@ -2921,13 +2909,13 @@
       "_Name": "Blue Privilege",
       "Name": "蓝色特权",
       "_Effect Text": "Gain {name currency coin} based on {plural_name currency advantage}NEWLINECurrently: [b]%s[/b]/s",
-      "Effect Text": "根据 {name currency advantage} 获得 {name currency coin}NEWLINE当前： [b]%s[/b]/s"
+      "Effect Text": "基于 {name currency advantage} 获得 {name currency coin}NEWLINE当前 [b]%s[/b]/s"
     },
     "ADVANTAGE_CRIT": {
       "_Name": "Axman13",
       "Name": "樵夫 13",
-      "_Effect Text": "Gain Crit Chance based on {plural_name currency advantage}NEWLINE[i]for[/i] {name lored main2}",
-      "Effect Text": "{name stage main2} LORED 根据 {name currency advantage} 获得暴击几率"
+      "_Effect Text": "Gain Crit Chance based on {plural_name currency advantage}NEWLINE[i]for[/i] {name lored main2}NEWLINECurrently: [b]+%s%%[/b]",
+      "Effect Text": "{name stage main2} LORED 基于 {name currency advantage} 获得暴击几率NEWLINE当前 [b]+%s%%[/b]"
     },
     "NICE": {
       "_Effect Text": "If the first two cards of a hand are [b]6[/b] and [b]9[/b], all [b]6s[/b] and [b]9s[/b]NEWLINEare worth [b]6.9x[/b] more {plural_name currency chip} for [b]6-9[/b] seconds",
@@ -2936,8 +2924,8 @@
     "MONEYMAKER": {
       "_Name": "Moneymaker",
       "Name": "钞票制造机",
-      "_Effect Text": "Multiply {name currency dollar} and {name currency coin} gain by [b]1.1[/b]NEWLINEif the first two cards of a hand are [b]5[/b] and [b]4[/b]",
-      "Effect Text": "如果手牌的前两张牌是 [b]5[/b] 和 [b]4[/b]，则将 {name currency dollar} 和 {name currency coin} 收益乘以 [b]1.1[/b]"
+      "_Effect Text": "Multiply {name currency dollar} and {name currency coin} gain by [b]1.1[/b]NEWLINEif the first two cards of a hand are [b]5[/b] and [b]4[/b]NEWLINECurrently: [b]x%s[/b]",
+      "Effect Text": "如果手牌的前两张牌是 [b]5[/b] 和 [b]4[/b]，则将 {name currency dollar} 和 {name currency coin} 收益乘以 [b]1.1[/b]NEWLINE当前 [b]×%s[/b]"
     },
     "TREE_2UNIQUE_AUTOBUYER": {
       "_Name": "let fate decide",
@@ -2961,19 +2949,19 @@
       "_Name": "Bullets",
       "Name": "子弹",
       "_Effect Text": "If the first two cards of a hand are [b]Aces[/b], itsNEWLINEscore multiplier will also apply to the next hand",
-      "Effect Text": "如果手牌的前两张牌是 [b]A[/b]，则其分数乘数也将应用于下一手牌"
+      "Effect Text": "如果手牌的前两张牌是 [b]A[/b]，则其分数倍率也将应用于下一手牌"
     },
     "luckier": {
       "_Name": "The Lucky Get Luckier",
       "Name": "幸运者更幸运",
       "_Effect Text": "Gain Crit Chance based on Lucky Crits (Gay)NEWLINE[i]for[/i] {name lored main2}NEWLINECurrently: [b]EffectText%[/b]",
-      "Effect Text": "{name stage main2} LORED 根据幸运暴击获得暴击几率NEWLINE当前：[b]EffectText%[/b]"
+      "Effect Text": "{name stage main2} LORED 根据幸运暴击获得暴击几率NEWLINE当前 [b]EffectText%[/b]"
     },
     "unpredictable_speed": {
       "_Name": "[shake rate=20 level=10]Unpr[/shake]edi[shake rate=20 level=10]cta[/shake]bl[shake rate=20 level=10]e[/shake] Sp[shake rate=20 level=10]eed!!!",
       "Name": "[shake rate=20 level=10]不[/shake]可[shake rate=20 level=10]预[/shake]测[shake rate=20 level=10]的[/shake]速[shake rate=20 level=10]度[/shake]！！！",
       "_Effect Text": "{name currency coin} gain [b]+1[/b]NEWLINEHaste multiplier equal to {name currency coin} gainNEWLINE[i]for [/i]{name lored main2}",
-      "Effect Text": "{name stage main2} LORED 的 {name currency coin} 收益 [b]+1[/b]NEWLINE加速乘数等于 {name currency coin} 收益"
+      "Effect Text": "{name stage main2} LORED 的 {name currency coin} 收益 [b]+1[/b]NEWLINE加速倍率等于 {name currency coin} 收益"
     },
     "lucky_crit2": {
       "_Name": "Roguish",
@@ -2984,8 +2972,8 @@
     "gambling_is_cancer": {
       "_Name": "Gambling Is Cancer",
       "Name": "赌博是癌症",
-      "_Effect Text": "Output multiplier based on {plural_name currency chip}NEWLINE[i]for [/i]{name lored tumor}",
-      "Effect Text": "{name lored tumor} 基于 {name currency chip} 的输出乘数"
+      "_Effect Text": "Output multiplier based on {plural_name currency chip}NEWLINE[i]for [/i]{name lored tumor}NEWLINECurrently: [b]x%s[/b]",
+      "Effect Text": "{name lored tumor} 输出倍率基于 {name currency chip}NEWLINE当前 [b]×%s[/b]"
     },
     "CALIBRATE_ENTHUSIASM": {
       "_Name": "Really? It's a [i]prestige.[/i] Calibrate your enthusiasm.",
@@ -3044,8 +3032,8 @@
     "RELEVANT": {
       "_Name": "I'm still relevant!!!",
       "Name": "我依然很重要！！！",
-      "_Effect Text": "Crit Multiplier addition based on {name currency malignancy}NEWLINE[i]for [/i]{name lored main2}",
-      "Effect Text": "{name stage main2} LORED 暴击乘数基于 {name currency malignancy} 增加"
+      "_Effect Text": "Crit Multiplier addition based on {name currency malignancy}NEWLINE[i]for [/i]{name lored main2}NEWLINECurrently: [b]+%s[/b]",
+      "Effect Text": "{name stage main2} LORED 暴击倍率加成基于 {name currency malignancy}NEWLINE当前 [b]+%s[/b]"
     },
     "RED_NECROMANCY": {
       "_Name": "Red Necromancy",
@@ -3087,31 +3075,31 @@
       "_Name": "Super Sucker",
       "Name": "超级吸尘器",
       "_Effect Text": "Output multiplier based on {plural_name currency ad_bonus}NEWLINE[i]for [/i]{name lored gem}",
-      "Effect Text": "{name lored gem} 输出乘数基于 {name currency ad_bonus}"
+      "Effect Text": "{name lored gem} 输出倍率基于 {name currency ad_bonus}"
     },
     "PERMANENT_AD_BONUS": {
       "_Name": "Permanent Ad Bonus",
       "Name": "永久广告奖励",
       "_Effect Text": "Output multiplier based on {plural_name currency subscription}NEWLINE[i]for [/i]{name lored ad}",
-      "Effect Text": "{name lored ad} 输出乘数基于 {name currency subscription}"
+      "Effect Text": "{name lored ad} 输出倍率基于 {name currency subscription}"
     },
     "THANK_YOU_EMAIL": {
       "_Name": "Thank You Email",
       "Name": "感谢邮件",
       "_Effect Text": "Output multiplier based on {plural_name currency deluxe_edition}NEWLINE[i]for [/i]{name lored battle_pass}",
-      "Effect Text": "{name lored battle_pass} 输出乘数基于 {name currency deluxe_edition}"
+      "Effect Text": "{name lored battle_pass} 输出倍率基于 {name currency deluxe_edition}"
     },
     "TAX_AUDIT": {
       "_Name": "Tax Audit",
       "Name": "税务审计",
       "_Effect Text": "Output multiplier based on {plural_name currency tax_writeoff}NEWLINE[i]for [/i]{name lored deluxe}",
-      "Effect Text": "{name lored deluxe} 输出乘数基于 {name currency tax_writeoff}"
+      "Effect Text": "{name lored deluxe} 输出倍率基于 {name currency tax_writeoff}"
     },
     "THE_RICH_GET_RICHER": {
       "_Name": "The Rich Get Richer",
       "Name": "富者愈富",
       "_Effect Text": "Output multiplier based on {plural_name currency dollar}NEWLINE[i]for [/i]{name lored whale}",
-      "Effect Text": "{name lored whale} 输出乘数基于 {name currency dollar}"
+      "Effect Text": "{name lored whale} 输出倍率基于 {name currency dollar}"
     },
     "microtransactions": {
       "_Name": "Microtransactions",
@@ -3129,7 +3117,7 @@
       "_Name": "Three Days Early Access!!!",
       "Name": "提前三天访问！！！",
       "_Effect Text": "Crit Multiplier [b]+EffectText[/b]NEWLINE[i]for [/i]{name lored main1}",
-      "Effect Text": "{name stage main1} LORED 暴击乘数 [b]+EffectText[/b]"
+      "Effect Text": "{name stage main1} LORED 暴击倍率 [b]+EffectText[/b]"
     },
     "banner_ads": {
       "_Name": "Banner Ads",
@@ -3349,7 +3337,7 @@
       "_Name": "Microphone",
       "Name": "话筒",
       "_Effect Text": "Output and Input multiplier based on {name currency will}NEWLINE[i]for [/i]Stage 1 [i]and[/i] {name lored main2}",
-      "Effect Text": "{name stage main1} 和 {name stage main2} LORED 输出和输入乘数基于 {name currency will}"
+      "Effect Text": "{name stage main1} 和 {name stage main2} LORED 输出和输入倍率基于 {name currency will}"
     },
     "REFUND": {
       "_Name": "Refund",
@@ -3373,7 +3361,7 @@
       "_Name": "Thingy Influence",
       "Name": "玩意儿影响",
       "_Effect Text": "Output and Input [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored main2}",
-      "Effect Text": "{name stage main1} 和 {name stage main2} LORED 输出和输入乘数基于 {name currency will}"
+      "Effect Text": "{name stage main2} LORED 输出和输入 [b]×EffectText[/b]"
     },
     "CREATIO_EX_NIHILO": {
       "_Name": "Creatio Ex Surplusio",
@@ -3395,25 +3383,25 @@
       "_Name": "Siphon",
       "Name": "虹吸",
       "_Effect Text": "Starting at level 100, gain {plural_name currency cell} based on {name lored malignancy}'s levelNEWLINECurrently: [b]%s[/b]/s",
-      "Effect Text": "从 100 级开始，根据 {name lored malignancy} 的等级获得 {name currency cell}NEWLINE当前：[b]%s[/b]/秒"
+      "Effect Text": "从 100 级开始，根据 {name lored malignancy} 的等级获得 {name currency cell}NEWLINE当前 [b]%s[/b]/秒"
     },
     "mitochondria": {
       "_Name": "Mitochondria",
       "Name": "线粒体",
-      "_Effect Text": "Output multiplier based on {plural_name currency cell}NEWLINE[i]for [/i]{name lored main1}",
-      "Effect Text": "{name stage main1} LORED 输出乘数基于 {name currency cell}"
+      "_Effect Text": "Output multiplier based on {plural_name currency cell}NEWLINE[i]for [/i]{name lored main1}NEWLINECurrently: [b]x%s[/b]",
+      "Effect Text": "{name stage main1} LORED 输出倍率基于 {name currency cell}NEWLINE当前 [b]×%s[/b]"
     },
     "myelin": {
       "_Name": "Myelin",
       "Name": "髓鞘",
-      "_Effect Text": "Haste multiplier based on {plural_name currency cell}NEWLINE[i]for [/i]{name lored main1}",
-      "Effect Text": "{name stage main1} LORED 加速乘数基于 {name currency cell}"
+      "_Effect Text": "Haste multiplier based on {plural_name currency cell}NEWLINE[i]for [/i]{name lored main1}NEWLINECurrently: [b]x%s[/b]",
+      "Effect Text": "{name stage main1} LORED 加速倍率基于 {name currency cell}NEWLINE当前 [b]×%s[/b]"
     },
     "ENDOJUICOSIS": {
       "_Name": "Endojuicosis",
       "Name": "内果汁病",
       "_Effect Text": "Gain Maximum [b]Juiced[/b] Crit Chance based on {plural_name currency cell}NEWLINECurrently: [b]%s",
-      "Effect Text": "根据 {name currency cell} 获得最大 [b]果汁满满[/b] 暴击几率NEWLINE当前：[b]%s[/b]"
+      "Effect Text": "根据 {name currency cell} 获得最大 [b]果汁满满[/b] 暴击几率NEWLINE当前 [b]%s[/b]"
     },
     "CELL_ENRAGED": {
       "_Name": "I ain't no biology major",
