@@ -2188,10 +2188,8 @@
     "coal_milkshake": {
       "_Name": "I DRINK YOUR MILKSHAKE!",
       "Name": "我喝你的奶昔！",
-      "_Effect Text": "Output [b]xEffectText[/b]NEWLINE[i]for [/i]{name lored coal}",
-      "Effect Text": "{name lored coal} 输出 [b]×EffectText[/b]",
-      "_Description": "Output multiplier [i]for [/i]{name lored coal}NEWLINEIncreases based on his level whenever {name currency coal} is usedNEWLINECurrently: [b]x%s[/b]",
-      "Description": "每当使用 {name currency coal} 时 {name lored coal} 输出倍数都会增加，增加的速率基于其等级NEWLINE当前 [b]×%s[/b]"
+      "_Effect Text": "Output multiplier [i]for [/i]{name lored coal}NEWLINEIncreases based on his level whenever {name currency coal} is usedNEWLINECurrently: [b]x%s[/b]",
+      "Effect Text": "{name lored coal} 输出倍数NEWLINE每当使用 {name currency coal} 时，都会根据其等级增加NEWLINE当前值：[b]×%s[/b]"
     },
     "aw": {
       "_Name": "Awh! <3",
@@ -3008,6 +3006,8 @@
     "JACKPOT": {
       "_Name": "Jackpot",
       "Name": "头奖",
+      "_Effect Text": "Unlock the [b]Jackpot[/b]",
+      "Effect Text": "解锁 [b]头奖[/b]",
       "_Description": "The pot increases by 1% of all Chips gained.",
       "Description": "奖池增加 {name currency chip} 收益的 1%。"
     },
